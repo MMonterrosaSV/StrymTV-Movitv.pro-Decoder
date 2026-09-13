@@ -1,0 +1,205 @@
+#EXTM3U
+
+#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://i.postimg.cc/6qQdVQmQ/Boxing-Playlist.png" group-title="Live Events",Boxing Playlist 🥊 (MOVITV)
+https://movitv.pro/boxing.txt parseUrl=8
+
+#EXTINF:-1 iso-id="US" type-id="#014" tvg-logo="https://i.ibb.co/G3r6YT8q/F1.png" group-title="Live Events",Formula 1 Playlist 🏎 (MOVITV)
+https://movitv.pro/f1.txt parseUrl=8
+
+#EXTINF:-1 iso-id="ES" type-id="#014" tvg-logo="https://i.ibb.co/n8tQRhym/Formula-1-Spanish-GP.png" group-title="Live Events",Spanish GP Playlist 🏎 (MOVITV)
+https://movitv.pro/f1.txt parseUrl=8
+
+#EXTINF:-1 iso-id="US" type-id="#006" tvg-logo="https://i.postimg.cc/Rh0c10DZ/MLB-Playlist.png" group-title="Live Events",MLB Playlist ⚾️ (MOVITV)
+https://movitv.pro/mlb.txt parseUrl=8
+
+#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.postimg.cc/brvQ0vBd/MMA-Playlist.png" group-title="Live Events",MMA Playlist 👊🏼 (MOVITV)
+https://movitv.pro/mma.txt parseUrl=8
+
+#EXTINF:-1 iso-id="US" type-id="#002" tvg-logo="https://i.postimg.cc/nrTGdbck/Bitmap.png" group-title="Live Events",NCAA Playlist 🏈 (MOVITV)
+https://movitv.pro/ncaa.txt parseUrl=8
+
+#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.postimg.cc/DzTxm7JZ/MMA.png" group-title="Live Events",#UFC Night👊🏼 (MOVITV)
+https://movitv.pro/mma.txt parseUrl=8
+
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/vTLd9z7m/LIGA-Game-Placeholder-2.png" group-title="Live Events",Santos-Cruzeiro (W6)
+https://w6.sportsonliine.click/channels/bra/br1.php parseUrl=2
+
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/vTLd9z7m/LIGA-Game-Placeholder-2.png" group-title="Live Events",Santos-Cruzeiro (2) (FUTBOLLIBRETVHD)
+https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY= parseUrl=2
+
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/vTLd9z7m/LIGA-Game-Placeholder-2.png" group-title="Live Events",Santos-Cruzeiro (3) (HESGOAL)
+https://www.hesgoal.zone/br1/ parseUrl=2
+
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/vTLd9z7m/LIGA-Game-Placeholder-2.png" group-title="Live Events",Santos-Cruzeiro (4) (DLIVE)
+https://dlive.sx/embed/stream-3.php parseUrl=2
+
+#EXTINF:-1 iso-id="US" type-id="#001" tvg-logo="https://i.postimg.cc/CMqwpNgd/MLS-Game-Placeholder.png" group-title="Live Events",INTER MIAMI-NASHVILLE SC (TVAPP1)
+https://tvapp1.com/watch/2407068 parseUrl=2
+
+#EXTINF:-1 iso-id="US" type-id="#001" tvg-logo="https://i.postimg.cc/CMqwpNgd/MLS-Game-Placeholder.png" group-title="Live Events",INTER MIAMI-NASHVILLE SC (2) (GGSPORT)
+https://ggsport.live/match/inter-miami-vs-nashville-sc-29925 parseUrl=2
+
+#EXTINF:-1 iso-id="US" type-id="#001" tvg-logo="https://i.postimg.cc/CMqwpNgd/MLS-Game-Placeholder.png" group-title="Live Events",INTER MIAMI-NASHVILLE SC (3) (DLIVE)
+https://dlive.sx/embed/stream-154.php parseUrl=2
+
+#EXTINF:-1 iso-id="US" type-id="#001" tvg-logo="https://i.postimg.cc/CMqwpNgd/MLS-Game-Placeholder.png" group-title="Live Events",INTER MIAMI-NASHVILLE SC (4) (24HSPORT)
+https://24hsport.tv/match/inter-miami-vs-nashville-sc-29925 parseUrl=2
+
+#EXTINF:-1 iso-id="US" type-id="#001" tvg-logo="https://i.postimg.cc/CMqwpNgd/MLS-Game-Placeholder.png" group-title="Live Events",INTER MIAMI-NASHVILLE SC (5) (DLIVE)
+https://dlive.sx/embed/stream-3034.php parseUrl=2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/28GMXtG2/Basket-TV.png" group-title="Sports",Basket TV (DLHD)
+https://dlhd.pk/embed/stream-404.php parseUrl=2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/28GMXtG2/Basket-TV.png" group-title="Sports",Basket TV (2) (FOXTREND)
+https://foxtrend.gd/live-tv?ch=ch-nba-tv parseUrl=2
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://i.postimg.cc/9XBC6YzD/Bein-Sports-1.png" group-title="Sports",Bein Sports 1 (DLHD)
+https://dlhd.pk/embed/stream-91.php parseUrl=2
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://i.postimg.cc/HL5CBQFK/Bein-Sports-2.png" group-title="Sports",Bein Sports 2 (DLHD)
+https://dlhd.pk/embed/stream-92.php parseUrl=2
+
+#EXTINF:-1 iso-id="QA" tvg-logo="https://i.postimg.cc/CMJpPM6s/Bein-Sports-3.png" group-title="Sports",Bein Sports 3 (DLHD)
+https://dlhd.pk/embed/stream-93.php parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/YjKppdKM/Bein-Sports-1-ENG.png" group-title="Sports",Bein Sports 1 ENG (DLHD)
+https://dlhd.pk/embed/stream-61.php parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/zfB32PqB/Bein-Sports-2-ENG.png" group-title="Sports",Bein Sports 2 ENG (DADDYLIVE)
+https://daddylive.sx/embed/stream-90.php parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/25639XC5/Bein-Sports-3-ENG.png" group-title="Sports",Bein Sports 3 ENG (DADDYLIVE)
+https://daddylive.sx/embed/stream-46.php parseUrl=2
+
+#EXTINF:-1 iso-id="MX" tvg-logo="https://i.postimg.cc/LsXhQ0mn/Bein-Sports.png" group-title="Sports",Bein Sports Ñ (DLHD)
+https://dlhd.pk/embed/stream-372.php parseUrl=2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/wBv34b93/Bein-Sports-US.png" group-title="Sports",Bein Sports USA (DLHD)
+https://dlhd.pk/embed/stream-425.php parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/B6mp9zFq/TNT-Sports-1.png" group-title="Sports",TNT Sports 1 (DLHD)
+https://dlhd.pk/embed/stream-31.php parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/DZx6kNGv/TNT-Sports-2.png" group-title="Sports",TNT Sports 2 (DLSTREAMS)
+https://dlstreams.st/cast/stream-32.php__Ref:"https://dlstreams.st/"parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/1tvBhdFR/TNT-Sports-3.png" group-title="Sports",TNT Sports 3 (DLSTREAMS)
+https://dlstreams.st/cast/stream-33.php__Ref:"https://dlstreams.st/"parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/85Z4QYvz/TNT-Sports-4.png" group-title="Sports",TNT Sports 4 (DLHD)
+https://dlhd.pk/embed/stream-34.php parseUrl=2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/gcshs5Fw/CBS-Sports.png" group-title="Sports",CBS Sports (DLHD)
+https://dlhd.pk/embed/stream-308.php parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/3JvqmKp3/Cloud-Sports-Action.png" group-title="Sports",Cloud Sports Action (DLHD)
+https://dlhd.pk/embed/stream-37.php parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/3JvqmKp3/Cloud-Sports-Action.png" group-title="Sports",Cloud Sports Action (2) (PLAYCRICHD)
+https://playcrichd.st/update/fetch.php?hd=1&embed=1 parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/CLq2kFDL/Cloud-Sports-Cricket.png" group-title="Sports",Cloud Sports Cricket (DLSTREAMS)
+https://dlstreams.st/cast/stream-65.php__Ref:"https://dlstreams.st/"parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/CLq2kFDL/Cloud-Sports-Cricket.png" group-title="Sports",Cloud Sports Cricket (PLAYCRICHD)
+https://playcrichd.st/update/fetch.php?hd=2&embed=1 parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/bNt5kzbY/Cloud-Sports-Football.png" group-title="Sports",Cloud Sports Football (DLHD)
+https://dlhd.pk/embed/stream-35.php parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/vHVKfQ9T/Cloud-Sports-Golf.png" group-title="Sports",Cloud Sports Golf (DLHD)
+https://dlhd.pk/embed/stream-70.php parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/dtyfrqdh/Cloud-Sports-Main.png" group-title="Sports",Cloud Sports Main (DLHD)
+https://dlhd.pk/embed/stream-38.php parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/dtyfrqdh/Cloud-Sports-Main.png" group-title="Sports",Cloud Sports Main (2) (PLAYCRICHD)
+https://playcrichd.st/update/fetch.php?hd=1&embed=1 parseUrl=2
+
+#EXTINF:-1 iso-id="AR" tvg-logo="https://i.imgur.com/wXmzRW9.png" group-title="Sports",DirecTV Sports (WSDEPORTES)
+https://wsdeportes.net/?v=dsportsplus parseUrl=2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/nLKrzjp6/ESPN.png" group-title="Sports",ESPN (DLHD)
+https://dlhd.pk/embed/stream-44.php parseUrl=2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/nLKrzjp6/ESPN.png" group-title="Sports",ESPN (2) (FOXTREND)
+https://foxtrend.gd/live-tv?ch=ch-espn parseUrl=2
+
+#EXTINF:-1 iso-id="MX" tvg-logo="https://i.postimg.cc/zfY38SYr/ESPN-Deportes.png" group-title="Sports",ESPN Deportes (DLHD)
+https://dlhd.pk/embed/stream-375.php parseUrl=2
+
+#EXTINF:-1 iso-id="MX" tvg-logo="https://i.postimg.cc/zfY38SYr/ESPN-Deportes.png" group-title="Sports",ESPN MX 1 (TVNOW247)
+https://tvnow247.top/watch/espn-1-mx/ parseUrl=2
+
+#EXTINF:-1 iso-id="AR" tvg-logo="https://i.postimg.cc/Dwmw5HLs/ESPN-Sur-1.png" group-title="Sports",ESPN SUR (DLSTREAMS)
+https://dlstreams.st/cast/stream-149.php__Ref:"https://dlstreams.st/"parseUrl=2
+
+#EXTINF:-1 iso-id="AR" tvg-logo="https://i.postimg.cc/Dwmw5HLs/ESPN-Sur-1.png" group-title="Sports",ESPN SUR (2) (WSDEPORTES)
+https://wsdeportes.net/?v=espn parseUrl=2
+
+#EXTINF:-1 iso-id="AR" tvg-logo="https://i.postimg.cc/1343M2wF/ESPN-Sur-2.png" group-title="Sports",ESPN SUR 2 (DLSTREAMS)
+https://dlstreams.st/cast/stream-150.php__Ref:"https://dlstreams.st/"parseUrl=2
+
+#EXTINF:-1 iso-id="AR" tvg-logo="https://i.postimg.cc/1343M2wF/ESPN-Sur-2.png" group-title="Sports",ESPN SUR 2 (2) (WSDEPORTES)
+https://wsdeportes.net/?v=espn2 parseUrl=2
+
+#EXTINF:-1 iso-id="AR" tvg-logo="https://i.postimg.cc/2S3STMhh/ESPN-Sur-3.png" group-title="Sports",ESPN SUR 3 (DLSTREAMS)
+https://dlstreams.st/cast/stream-798.php__Ref:"https://dlstreams.st/"parseUrl=2
+
+#EXTINF:-1 iso-id="AR" tvg-logo="https://i.postimg.cc/2S3STMhh/ESPN-Sur-3.png" group-title="Sports",ESPN SUR 3 (3) (WSDEPORTES)
+https://wsdeportes.net/?v=espn3 parseUrl=2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="Sports",FS1 (DLHD)
+https://dlhd.pk/embed/stream-39.php parseUrl=2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="Sports",FS1 (2) (FOXTREND)
+https://foxtrend.gd/live-tv?ch=ch-fox-sports-1 parseUrl=2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/Lscb1F4J/FS2.png" group-title="Sports",FS2 (DLHD)
+https://dlhd.pk/embed/stream-758.php parseUrl=2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/Lscb1F4J/FS2.png" group-title="Sports",FS2 (2) (FOXTREND)
+https://foxtrend.gd/live-tv?ch=ch-fox-sports-2 parseUrl=2
+
+#EXTINF:-1 iso-id="MX" tvg-logo="https://i.postimg.cc/jqJp5M34/FOX-Deportes.png" group-title="Sports",Fox Deportes (DLHD)
+https://dlhd.pk/embed/stream-643.php parseUrl=2
+
+#EXTINF:-1 iso-id="MX" tvg-logo="https://i.postimg.cc/jqJp5M34/FOX-Deportes.png" group-title="Sports",Fox Deportes (2) (FOXTREND)
+https://foxtrend.gd/live-tv?ch=ch-fox-deportes parseUrl=2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/TPLs13xw/Tennis-Channel.png" group-title="Sports",Tennis Channel (DLHD)
+https://dlhd.pk/embed/stream-40.php parseUrl=2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/TPLs13xw/Tennis-Channel.png" group-title="Sports",Tennis Channel (2) (FOXTREND)
+https://foxtrend.gd/live-tv?ch=ch-tennis-channel parseUrl=2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/j5BBcf2g/TUDN.png" group-title="Sports",TUDN USA (DLHD)
+https://dlhd.pk/embed/stream-66.php parseUrl=2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/j5BBcf2g/TUDN.png" group-title="Sports",TUDN USA (2) (WSDEPORTES)
+https://wsdeportes.net/?v=tudnus parseUrl=2
+
+#EXTINF:-1 iso-id="MX" tvg-logo="https://i.postimg.cc/j5BBcf2g/TUDN.png" group-title="Sports",TUDN MX (DLHD)
+https://dlhd.pk/embed/stream-935.php parseUrl=2
+
+#EXTINF:-1 iso-id="MX" tvg-logo="https://i.postimg.cc/j5BBcf2g/TUDN.png" group-title="Sports",TUDN MX (2) (FOXTREND)
+https://foxtrend.gd/live-tv?ch=ch-tudn parseUrl=2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/mrxzsrn9/A-E.png" group-title="Entertainment",A&E (DLHD)
+https://dlhd.pk/embed/stream-302.php parseUrl=1
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/mrxzsrn9/A-E.png" group-title="Entertainment",A&E (2) (FOXXY)
+https://foxxy.st/live-tv/ae parseUrl=1
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/bYRztfXB/CBS.png" group-title="Entertainment",CBS (DLHD)
+https://dlhd.pk/embed/stream-52.php parseUrl=2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/bYRztfXB/CBS.png" group-title="Entertainment",CBS (2) (FOXTREND)
+https://foxtrend.gd/live-tv?ch=ch-cbs parseUrl=2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/BHzDrX61/HBO.png" group-title="Entertainment",HBO (DLHD)
+https://dlhd.pk/embed/stream-321.php parseUrl=1
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/BHzDrX61/HBO.png" group-title="Entertainment",HBO (2) (FOXXY)
+https://foxxy.st/live-tv/hbo parseUrl=1
