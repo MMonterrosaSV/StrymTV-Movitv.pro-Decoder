@@ -1,358 +1,124 @@
 #EXTM3U
 
-#EXTINF:-1 iso-id="US" type-id="#014" tvg-logo="https://i.ibb.co/G3r6YT8q/F1.png" group-title="Live Events",Formula 1 Playlist 🏎 (MOVITV)
-https://movitv.pro/f1.txt parseUrl=8
-
-#EXTINF:-1 iso-id="ES" type-id="#014" tvg-logo="https://i.ibb.co/n8tQRhym/Formula-1-Spanish-GP.png" group-title="Live Events",Spanish GP Playlist 🏎 (MOVITV)
-https://movitv.pro/f1.txt parseUrl=8
-
 #EXTINF:-1 iso-id="US" type-id="#002" tvg-logo="https://i.postimg.cc/Hsq5ZrY7/NFL-Playlist.png" group-title="Live Events",NFL Playlist 🏈 (MOVITV)
 https://movitv.pro/nfl.txt parseUrl=8
 
 #EXTINF:-1 iso-id="US" type-id="002" tvg-logo="https://i.postimg.cc/VLrnWqc2/Redzone-Playlist.png" group-title="Live Events",NFL Red Zone Playlist 🏈 (MOVITV)
 https://movitv.pro/nfl.txt parseUrl=8
 
-#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/wTBxrykB/LIGA-Game-Placeholder.png" group-title="Live Events",Benfica-Gil Vicente (W6)
-https://w6.sportsonliine.click/channels/pt/btv.php parseUrl=2
+#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/YSSDQ7NW/LIGA-Game-Placeholder-2.png" group-title="Live Events",Famalicao-Sporting (W6)
+https://w6.sportsonliine.click/channels/pt/sporttv1.php parseUrl=2
 
-#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/wTBxrykB/LIGA-Game-Placeholder.png" group-title="Live Events",Benfica-Gil Vicente (2) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg== parseUrl=2
+#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/YSSDQ7NW/LIGA-Game-Placeholder-2.png" group-title="Live Events",Famalicao-Sporting (2) (FUTBOLLIBRETVHD)
+https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHMy parseUrl=2
 
-#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/wTBxrykB/LIGA-Game-Placeholder.png" group-title="Live Events",Benfica-Gil Vicente (3) (TVAPP1)
-https://tvapp1.com/watch/2513979 parseUrl=2
+#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/YSSDQ7NW/LIGA-Game-Placeholder-2.png" group-title="Live Events",Famalicao-Sporting (3) (DLIVE)
+https://dlive.sx/embed/stream49.php parseUrl=2
 
-#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/wTBxrykB/LIGA-Game-Placeholder.png" group-title="Live Events",Benfica-Gil Vicente (4) (HESGOAL)
-https://www.hesgoal.zone/btv/ parseUrl=2
+#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/YSSDQ7NW/LIGA-Game-Placeholder-2.png" group-title="Live Events",Famalicao-Sporting (4) (SOCCERSTREAMS24)
+https://soccerstreams24.is/Famalicao-vs-Sporting-CP/76123 parseUrl=2
 
-#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/wTBxrykB/LIGA-Game-Placeholder.png" group-title="Live Events",Benfica-Gil Vicente (5) (24HSPORT)
-https://24hsport.tv/match/benfica-vs-gil-vicente-30141 parseUrl=2
+#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/YSSDQ7NW/LIGA-Game-Placeholder-2.png" group-title="Live Events",Famalicao-Sporting (5) (HESGOAL)
+https://www.hesgoal.zone/sport-tv1/ parseUrl=2
 
-#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/wTBxrykB/LIGA-Game-Placeholder.png" group-title="Live Events",Benfica-Gil Vicente (6) (FOXXY)
-https://foxxy.st/event/m-benfica-vs-gil-vicente-0913 parseUrl=2
+#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/YSSDQ7NW/LIGA-Game-Placeholder-2.png" group-title="Live Events",Famalicao-Sporting (6) (TVAPP1)
+https://tvapp1.com/watch/2513986 parseUrl=2
 
-#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/wTBxrykB/LIGA-Game-Placeholder.png" group-title="Live Events",Benfica-Gil Vicente (7) (DLIVE)
-https://dlive.sx/embed/stream-999.php parseUrl=2
+#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/YSSDQ7NW/LIGA-Game-Placeholder-2.png" group-title="Live Events",Famalicao-Sporting (7) (FOXXY)
+https://foxxy.st/event/m-fc-famalicao-vs-sporting-cp-0913 parseUrl=2
 
-#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/wTBxrykB/LIGA-Game-Placeholder.png" group-title="Live Events",Benfica-Gil Vicente (8) (DLIVE)
-https://dlive.sx/embed/stream-8059.php parseUrl=2
+#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/YSSDQ7NW/LIGA-Game-Placeholder-2.png" group-title="Live Events",Famalicao-Sporting (8) (DLIVE)
+https://dlive.sx/embed/stream8079.php parseUrl=2
 
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/MHDDfjQT/LIGA-Game-Placeholder.png" group-title="Live Events",Getafe-Deportivo (STREAMSGATES)
-https://streamsgates.io/#/soccer/getafe-vs-deportivo parseUrl=2
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/QxBg3t8X/LIGA-Game-Placeholder.png" group-title="Live Events",Real Sociedad-Atletico Madrid (STREAMSGATES)
+https://streamsgates.io/#/soccer/real-sociedad-vs-atltico-madrid parseUrl=2
 
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/MHDDfjQT/LIGA-Game-Placeholder.png" group-title="Live Events",Getafe-Deportivo (2) (W6)
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/QxBg3t8X/LIGA-Game-Placeholder.png" group-title="Live Events",Real Sociedad-Atletico Madrid (2) (W6)
 https://w6.sportsonliine.click/channels/hd/hd10.php parseUrl=2
 
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/MHDDfjQT/LIGA-Game-Placeholder.png" group-title="Live Events",Getafe-Deportivo (3) (FUTBOLLIBRETVHD)
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/QxBg3t8X/LIGA-Game-Placeholder.png" group-title="Live Events",Real Sociedad-Atletico Madrid (3) (DLIVE)
+https://dlive.sx/embed/stream-538.php parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/QxBg3t8X/LIGA-Game-Placeholder.png" group-title="Live Events",Real Sociedad-Atletico Madrid (4) (TVAPP1)
+https://tvapp1.com/watch/2506216 parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/QxBg3t8X/LIGA-Game-Placeholder.png" group-title="Live Events",Real Sociedad-Atletico Madrid (5) (HESGOAL)
+https://www.hesgoal.zone/hd-6/ parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/QxBg3t8X/LIGA-Game-Placeholder.png" group-title="Live Events",Real Sociedad-Atletico Madrid (6) (FOXXY)
+https://foxxy.st/event/m-real-sociedad-vs-atletico-madrid-0913 parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/QxBg3t8X/LIGA-Game-Placeholder.png" group-title="Live Events",Real Sociedad-Atletico Madrid (7) (STREAMSGATES)
+https://streamsgates.pk/watch.html?sport=football&id=ppv-real-sociedad-vs-atl-tico-madrid parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/QxBg3t8X/LIGA-Game-Placeholder.png" group-title="Live Events",Real Sociedad-Atletico Madrid (8) (DLIVE)
+https://dlive.sx/embed/stream-538.php parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/QxBg3t8X/LIGA-Game-Placeholder.png" group-title="Live Events",Real Sociedad-Atletico Madrid (9) (FUTBOLLIBRETVHD)
 https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA== parseUrl=2
 
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/MHDDfjQT/LIGA-Game-Placeholder.png" group-title="Live Events",Getafe-Deportivo (4) (TVAPP1)
-https://tvapp1.com/watch/2506215 parseUrl=2
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/QxBg3t8X/LIGA-Game-Placeholder.png" group-title="Live Events",Real Sociedad-Atletico Madrid (10) (DLIVE)
+https://dlive.sx/embed/stream-8075.php parseUrl=2
 
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/MHDDfjQT/LIGA-Game-Placeholder.png" group-title="Live Events",Getafe-Deportivo (5) (STREAMSEAST)
-https://streamseast.ws/soccer/401882884/getafe-vs-deportivo parseUrl=2
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/28P6Bj4q/LIGA-Game-Placeholder.png" group-title="Live Events",Sassuolo-Juventus (STREAMSGATES)
+https://streamsgates.io/#/soccer/sassuolo-vs-juventus parseUrl=2
 
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/MHDDfjQT/LIGA-Game-Placeholder.png" group-title="Live Events",Getafe-Deportivo (6) (HESGOAL)
-https://www.hesgoal.zone/hd-10/ parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/MHDDfjQT/LIGA-Game-Placeholder.png" group-title="Live Events",Getafe-Deportivo (7) (FOXXY)
-https://foxxy.st/event/ppv-getafe-vs-deportivo/core/1 parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/MHDDfjQT/LIGA-Game-Placeholder.png" group-title="Live Events",Getafe-Deportivo (8) (STREAMSGATES)
-https://streamsgates.pk/watch.html?sport=football&id=ppv-getafe-vs-deportivo parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/MHDDfjQT/LIGA-Game-Placeholder.png" group-title="Live Events",Getafe-Deportivo (9) (DLIVE)
-https://dlive.sx/embed/stream-8048.php parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/MHDDfjQT/LIGA-Game-Placeholder.png" group-title="Live Events",Getafe-Deportivo (10) (DLIVE)
-https://dlive.sx/embed/stream-8049.php parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/YCwLHgHt/LIGA-Game-Placeholder.png" group-title="Live Events",Napoli-Bologna (EMBEDHD)
-https://embedhd.pk/embed/hd-9.php parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/YCwLHgHt/LIGA-Game-Placeholder.png" group-title="Live Events",Napoli-Bologna (2) (W6)
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/28P6Bj4q/LIGA-Game-Placeholder.png" group-title="Live Events",Sassuolo-Juventus (2) (W6)
 https://w6.sportsonliine.click/channels/hd/hd11.php parseUrl=2
 
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/YCwLHgHt/LIGA-Game-Placeholder.png" group-title="Live Events",Napoli-Bologna (3) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4ybXg= parseUrl=2
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/28P6Bj4q/LIGA-Game-Placeholder.png" group-title="Live Events",Sassuolo-Juventus (3) (DLIVE)
+https://dlive.sx/embed/stream-151.php parseUrl=2
 
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/YCwLHgHt/LIGA-Game-Placeholder.png" group-title="Live Events",Napoli-Bologna (4) (W6)
-https://w6.sportsonliine.click/channels/hd/hd8.php parseUrl=2
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/28P6Bj4q/LIGA-Game-Placeholder.png" group-title="Live Events",Sassuolo-Juventus (4) (TVAPP1)
+https://tvapp1.com/watch/2482169 parseUrl=2
 
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/YCwLHgHt/LIGA-Game-Placeholder.png" group-title="Live Events",Napoli-Bologna (5) (HESGOAL)
-https://www.hesgoal.zone/hd-11/ parseUrl=2
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/28P6Bj4q/LIGA-Game-Placeholder.png" group-title="Live Events",Sassuolo-Juventus (5) (DLIVE)
+https://dlive.sx/embed/stream-8073.php parseUrl=2
 
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/YCwLHgHt/LIGA-Game-Placeholder.png" group-title="Live Events",Napoli-Bologna (6) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/YCwLHgHt/LIGA-Game-Placeholder.png" group-title="Live Events",Napoli-Bologna (7) (24HSPORT)
-https://24hsport.tv/match/napoli-vs-bologna-30165 parseUrl=1
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/YCwLHgHt/LIGA-Game-Placeholder.png" group-title="Live Events",Napoli-Bologna (8) (HESGOAL)
-https://www.hesgoal.zone/hd-8/ parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/YCwLHgHt/LIGA-Game-Placeholder.png" group-title="Live Events",Napoli-Bologna (9) (DLIVE)
-https://dlive.sx/embed/stream-8047.php parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Y0DPKkVw/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER UNITED-MANCHESTER CITY (EMBEDHD)
-https://embedhd.pk/embed/hd-1.php parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Y0DPKkVw/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER UNITED-MANCHESTER CITY (2) (W6)
-https://w6.sportsonliine.click/channels/hd/hd1.php parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Y0DPKkVw/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER UNITED-MANCHESTER CITY (3) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Y0DPKkVw/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER UNITED-MANCHESTER CITY (4) (W6)
-https://w6.sportsonliine.click/channels/hd/hd2.php parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Y0DPKkVw/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER UNITED-MANCHESTER CITY (5) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4= parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Y0DPKkVw/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER UNITED-MANCHESTER CITY (6) (W6)
-https://w6.sportsonliine.click/channels/pt/eleven1.php parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Y0DPKkVw/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER UNITED-MANCHESTER CITY (7) (TVAPP1)
-https://tvapp1.com/watch/2494030 parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Y0DPKkVw/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER UNITED-MANCHESTER CITY (8) (W6)
-https://w6.sportsonliine.click/channels/bra/br2.php parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Y0DPKkVw/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER UNITED-MANCHESTER CITY (9) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlbXVuZG8= parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Y0DPKkVw/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER UNITED-MANCHESTER CITY (10) (OVOSTREAM)
-https://ovostream.net/?game=manchester-united-vs-manchester-city parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Y0DPKkVw/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER UNITED-MANCHESTER CITY (11) (GGSPORT)
-https://ggsport.live/match/manchester-united-vs-manchester-city-30139 parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Y0DPKkVw/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER UNITED-MANCHESTER CITY (12) (DLIVE)
-https://dlive.sx/embed/stream-595.php parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Y0DPKkVw/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER UNITED-MANCHESTER CITY (13) (24HSPORT)
-https://24hsport.tv/match/manchester-united-vs-manchester-city-30139 parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Y0DPKkVw/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER UNITED-MANCHESTER CITY (14) (DLIVE)
-https://dlive.sx/embed/stream-149.php parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Y0DPKkVw/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER UNITED-MANCHESTER CITY (15) (DLIVE)
-https://dlive.sx/embed/stream-3004.php parseUrl=2
-
-#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.postimg.cc/cHn74Wr1/BUNDES-Game-Placeholder.png" group-title="Live Events",ELVERSBERG-BAYERN MÜNCHEN (W6)
-https://w6.sportsonliine.click/channels/hd/hd9.php parseUrl=2
-
-#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.postimg.cc/cHn74Wr1/BUNDES-Game-Placeholder.png" group-title="Live Events",ELVERSBERG-BAYERN MÜNCHEN (2) (TVAPP1)
-https://tvapp1.com/watch/2508359 parseUrl=2
-
-#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.postimg.cc/cHn74Wr1/BUNDES-Game-Placeholder.png" group-title="Live Events",ELVERSBERG-BAYERN MÜNCHEN (3) (W6)
-https://w6.sportsonliine.click/channels/hd/hd3.php parseUrl=2
-
-#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.postimg.cc/cHn74Wr1/BUNDES-Game-Placeholder.png" group-title="Live Events",ELVERSBERG-BAYERN MÜNCHEN (4) (FOXXY)
-https://foxxy.st/event/m-sv-elversberg-vs-bayern-munich-0913 parseUrl=1
-
-#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.postimg.cc/cHn74Wr1/BUNDES-Game-Placeholder.png" group-title="Live Events",ELVERSBERG-BAYERN MÜNCHEN (5) (W6)
-https://w6.sportsonliine.click/channels/pt/eleven3.php parseUrl=2
-
-#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.postimg.cc/cHn74Wr1/BUNDES-Game-Placeholder.png" group-title="Live Events",ELVERSBERG-BAYERN MÜNCHEN (6) (GGSPORT)
-https://ggsport.live/match/sv-elversberg-vs-bayern-munchen-29845 parseUrl=1
-
-#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.postimg.cc/cHn74Wr1/BUNDES-Game-Placeholder.png" group-title="Live Events",ELVERSBERG-BAYERN MÜNCHEN (7) (DLIVE)
-https://dlive.sx/embed/stream-343.php parseUrl=2
-
-#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.postimg.cc/cHn74Wr1/BUNDES-Game-Placeholder.png" group-title="Live Events",ELVERSBERG-BAYERN MÜNCHEN (8) (24HSPORT)
-https://24hsport.tv/match/sv-elversberg-vs-bayern-munchen-29845 parseUrl=1
-
-#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.postimg.cc/cHn74Wr1/BUNDES-Game-Placeholder.png" group-title="Live Events",ELVERSBERG-BAYERN MÜNCHEN (9) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE0 parseUrl=2
-
-#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.postimg.cc/cHn74Wr1/BUNDES-Game-Placeholder.png" group-title="Live Events",ELVERSBERG-BAYERN MÜNCHEN (10) (DLIVE)
-https://dlive.sx/embed/stream-8039.php parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/mr48ntDX/LIGA-Game-Placeholder.png" group-title="Live Events",LEVANTE-BARCELONA (EMBEDHD)
-https://embedhd.pk/embed/hd-7.php parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/mr48ntDX/LIGA-Game-Placeholder.png" group-title="Live Events",LEVANTE-BARCELONA (2) (W6)
-https://w6.sportsonliine.click/channels/hd/hd10.php parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/mr48ntDX/LIGA-Game-Placeholder.png" group-title="Live Events",LEVANTE-BARCELONA (3) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA== parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/mr48ntDX/LIGA-Game-Placeholder.png" group-title="Live Events",LEVANTE-BARCELONA (4) (W6)
-https://w6.sportsonliine.click/channels/hd/hd6.php parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/mr48ntDX/LIGA-Game-Placeholder.png" group-title="Live Events",LEVANTE-BARCELONA (5) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw== parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/mr48ntDX/LIGA-Game-Placeholder.png" group-title="Live Events",LEVANTE-BARCELONA (6) (W6)
-https://w6.sportsonliine.click/channels/pt/eleven2.php parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/mr48ntDX/LIGA-Game-Placeholder.png" group-title="Live Events",LEVANTE-BARCELONA (7) (TVAPP1)
-https://tvapp1.com/watch/2506213 parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/mr48ntDX/LIGA-Game-Placeholder.png" group-title="Live Events",LEVANTE-BARCELONA (8) (W6)
-https://w6.sportsonliine.click/channels/bra/br3.php parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/mr48ntDX/LIGA-Game-Placeholder.png" group-title="Live Events",LEVANTE-BARCELONA (9) (GGSPORT)
-https://ggsport.live/match/levante-vs-barcelona-30177 parseUrl=1
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/mr48ntDX/LIGA-Game-Placeholder.png" group-title="Live Events",LEVANTE-BARCELONA (10) (FOXXY)
-https://foxxy.st/event/m-levante-vs-barcelona-0913 parseUrl=1
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/mr48ntDX/LIGA-Game-Placeholder.png" group-title="Live Events",LEVANTE-BARCELONA (11) (24HSPORT)
-https://24hsport.tv/match/levante-vs-barcelona-30177 parseUrl=1
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/mr48ntDX/LIGA-Game-Placeholder.png" group-title="Live Events",LEVANTE-BARCELONA (12) (DLIVE)
-https://dlive.sx/embed/stream-8029.php parseUrl=2
-
-#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.postimg.cc/dV5j5nbt/BUNDES-Game-Placeholder.png" group-title="Live Events",RB LEIPZIG-HAMBURGER SV (W6)
-https://w6.sportsonliine.click/channels/hd/hd3.php parseUrl=2
-
-#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.postimg.cc/dV5j5nbt/BUNDES-Game-Placeholder.png" group-title="Live Events",RB LEIPZIG-HAMBURGER SV (2) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ== parseUrl=2
-
-#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.postimg.cc/dV5j5nbt/BUNDES-Game-Placeholder.png" group-title="Live Events",RB LEIPZIG-HAMBURGER SV (3) (W6)
-https://w6.sportsonliine.click/channels/pt/eleven3.php parseUrl=2
-
-#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.postimg.cc/dV5j5nbt/BUNDES-Game-Placeholder.png" group-title="Live Events",RB LEIPZIG-HAMBURGER SV (4) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv parseUrl=2
-
-#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.postimg.cc/dV5j5nbt/BUNDES-Game-Placeholder.png" group-title="Live Events",RB LEIPZIG-HAMBURGER SV (5) (TVAPP1)
-https://tvapp1.com/watch/2508356 parseUrl=2
-
-#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.postimg.cc/dV5j5nbt/BUNDES-Game-Placeholder.png" group-title="Live Events",RB LEIPZIG-HAMBURGER SV (6) (GGSPORT)
-https://ggsport.live/match/rb-leipzig-vs-hamburger-sv-29839 parseUrl=1
-
-#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.postimg.cc/dV5j5nbt/BUNDES-Game-Placeholder.png" group-title="Live Events",RB LEIPZIG-HAMBURGER SV (7) (FOXXY)
-https://foxxy.st/event/m-rb-leipzig-vs-hamburg-sv-0913 parseUrl=1
-
-#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.postimg.cc/dV5j5nbt/BUNDES-Game-Placeholder.png" group-title="Live Events",RB LEIPZIG-HAMBURGER SV (8) (24HSPORT)
-https://24hsport.tv/match/rb-leipzig-vs-hamburger-sv-29839 parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Xv9tZRZ2/EPL-Game-Placeholder.png" group-title="Live Events",COVENTRY CITY-BRIGHTON & HOVE (EMBEDHD)
-https://embedhd.pk/embed/hd-1.php parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Xv9tZRZ2/EPL-Game-Placeholder.png" group-title="Live Events",COVENTRY CITY-BRIGHTON & HOVE (2) (W6)
-https://w6.sportsonliine.click/channels/hd/hd1.php parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Xv9tZRZ2/EPL-Game-Placeholder.png" group-title="Live Events",COVENTRY CITY-BRIGHTON & HOVE (3) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw== parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Xv9tZRZ2/EPL-Game-Placeholder.png" group-title="Live Events",COVENTRY CITY-BRIGHTON & HOVE (4) (W6)
-https://w6.sportsonliine.click/channels/pt/eleven1.php parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Xv9tZRZ2/EPL-Game-Placeholder.png" group-title="Live Events",COVENTRY CITY-BRIGHTON & HOVE (5) (TVAPP1)
-https://tvapp1.com/watch/2494039 parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Xv9tZRZ2/EPL-Game-Placeholder.png" group-title="Live Events",COVENTRY CITY-BRIGHTON & HOVE (6) (W6)
-https://w6.sportsonliine.click/channels/bra/br2.php parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Xv9tZRZ2/EPL-Game-Placeholder.png" group-title="Live Events",COVENTRY CITY-BRIGHTON & HOVE (7) (OVOSTREAM)
-https://ovostream.net/?game=coventry-city-vs-brighton-hove-albion parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Xv9tZRZ2/EPL-Game-Placeholder.png" group-title="Live Events",COVENTRY CITY-BRIGHTON & HOVE (8) (GGSPORT)
-https://ggsport.live/match/coventry-vs-brighton-30137 parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Xv9tZRZ2/EPL-Game-Placeholder.png" group-title="Live Events",COVENTRY CITY-BRIGHTON & HOVE (9) (FOXXY)
-https://foxxy.st/event/m-coventry-city-vs-brighton-hove-albion-0913 parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Xv9tZRZ2/EPL-Game-Placeholder.png" group-title="Live Events",COVENTRY CITY-BRIGHTON & HOVE (10) (24HSPORT)
-https://24hsport.tv/match/coventry-vs-brighton-30137 parseUrl=1
-
-#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/sgRGrSrV/LIGA-Game-Placeholder-2.png" group-title="Live Events",Lille-Troyes (EMBEDHD)
-https://embedhd.pk/embed/hd-10.php parseUrl=2
-
-#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/sgRGrSrV/LIGA-Game-Placeholder-2.png" group-title="Live Events",Lille-Troyes (2) (W6)
-https://w6.sportsonliine.click/channels/hd/hd4.php parseUrl=2
-
-#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/sgRGrSrV/LIGA-Game-Placeholder-2.png" group-title="Live Events",Lille-Troyes (3) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWJlaW5zcG9ydGVz parseUrl=2
-
-#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/sgRGrSrV/LIGA-Game-Placeholder-2.png" group-title="Live Events",Lille-Troyes (4) (W6)
-https://w6.sportsonliine.click/channels/pt/sporttv3.php parseUrl=2
-
-#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/sgRGrSrV/LIGA-Game-Placeholder-2.png" group-title="Live Events",Lille-Troyes (5) (TVAPP1)
-https://tvapp1.com/watch/2489489 parseUrl=2
-
-#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/sgRGrSrV/LIGA-Game-Placeholder-2.png" group-title="Live Events",Lille-Troyes (6) (HESGOAL)
-https://www.hesgoal.zone/hd-4/ parseUrl=2
-
-#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/sgRGrSrV/LIGA-Game-Placeholder-2.png" group-title="Live Events",Lille-Troyes (7) (24HSPORT)
-https://24hsport.tv/match/lille-vs-estac-troyes-29811 parseUrl=1
-
-#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/sgRGrSrV/LIGA-Game-Placeholder-2.png" group-title="Live Events",Lille-Troyes (8) (HESGOAL)
-https://www.hesgoal.zone/sport-tv3/ parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/g2PLWRWz/LIGA-Game-Placeholder-3.png" group-title="Live Events",Lecce-Monza (EMBEDHD)
-https://embedhd.pk/embed/hd-9.php parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/g2PLWRWz/LIGA-Game-Placeholder-3.png" group-title="Live Events",Lecce-Monza (2) (W6)
-https://w6.sportsonliine.click/channels/hd/hd11.php parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/g2PLWRWz/LIGA-Game-Placeholder-3.png" group-title="Live Events",Lecce-Monza (3) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg= parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/g2PLWRWz/LIGA-Game-Placeholder-3.png" group-title="Live Events",Lecce-Monza (4) (W6)
-https://w6.sportsonliine.click/channels/hd/hd7.php parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/g2PLWRWz/LIGA-Game-Placeholder-3.png" group-title="Live Events",Lecce-Monza (5) (HESGOAL)
-https://www.hesgoal.zone/hd-11/ parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/g2PLWRWz/LIGA-Game-Placeholder-3.png" group-title="Live Events",Lecce-Monza (6) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5teA== parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/g2PLWRWz/LIGA-Game-Placeholder-3.png" group-title="Live Events",Lecce-Monza (7) (24HSPORT)
-https://24hsport.tv/match/lecce-vs-monza-30161 parseUrl=1
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/g2PLWRWz/LIGA-Game-Placeholder-3.png" group-title="Live Events",Lecce-Monza (8) (HESGOAL)
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/28P6Bj4q/LIGA-Game-Placeholder.png" group-title="Live Events",Sassuolo-Juventus (6) (HESGOAL)
 https://www.hesgoal.zone/hd-7/ parseUrl=2
 
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/tC1SZKwC/LIGA-Game-Placeholder.png" group-title="Live Events",CELTA VIGO-MALAGA (EMBEDHD)
-https://embedhd.pk/embed/hd-7.php parseUrl=2
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/28P6Bj4q/LIGA-Game-Placeholder.png" group-title="Live Events",Sassuolo-Juventus (7) (FOXXY)
+https://foxxy.st/event/m-sassuolo-vs-juventus-0913 parseUrl=2
 
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/tC1SZKwC/LIGA-Game-Placeholder.png" group-title="Live Events",CELTA VIGO-MALAGA (2) (W6)
-https://w6.sportsonliine.click/channels/hd/hd6.php parseUrl=2
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/28P6Bj4q/LIGA-Game-Placeholder.png" group-title="Live Events",Sassuolo-Juventus (8) (FUTBOLLIBRETVHD)
+https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlbXVuZG8= parseUrl=2
 
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/tC1SZKwC/LIGA-Game-Placeholder.png" group-title="Live Events",CELTA VIGO-MALAGA (3) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40 parseUrl=2
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/28P6Bj4q/LIGA-Game-Placeholder.png" group-title="Live Events",Sassuolo-Juventus (9) (DLIVE)
+https://dlive.sx/embed/stream-8072.php parseUrl=2
 
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/tC1SZKwC/LIGA-Game-Placeholder.png" group-title="Live Events",CELTA VIGO-MALAGA (4) (W6)
-https://w6.sportsonliine.click/channels/pt/eleven2.php parseUrl=2
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/28P6Bj4q/LIGA-Game-Placeholder.png" group-title="Live Events",Sassuolo-Juventus (10) (STREAMSEAST)
+https://streamseast.ws/soccer/401874750/sassuolo-vs-juventus parseUrl=2
 
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/tC1SZKwC/LIGA-Game-Placeholder.png" group-title="Live Events",CELTA VIGO-MALAGA (5) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40 parseUrl=2
+#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/7Zk5WYfY/LIGA-Game-Placeholder.png" group-title="Live Events",Brest-PSG (STREAMSGATES)
+https://streamsgates.io/#/soccer/brest-vs-paris-saint-germain parseUrl=2
 
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/tC1SZKwC/LIGA-Game-Placeholder.png" group-title="Live Events",CELTA VIGO-MALAGA (6) (TVAPP1)
-https://tvapp1.com/watch/2506212 parseUrl=2
+#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/7Zk5WYfY/LIGA-Game-Placeholder.png" group-title="Live Events",Brest-PSG (2) (W6)
+https://w6.sportsonliine.click/channels/hd/hd4.php parseUrl=2
 
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/tC1SZKwC/LIGA-Game-Placeholder.png" group-title="Live Events",CELTA VIGO-MALAGA (7) (GGSPORT)
-https://ggsport.live/match/celta-vigo-vs-malaga-30175 parseUrl=1
+#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/7Zk5WYfY/LIGA-Game-Placeholder.png" group-title="Live Events",Brest-PSG (3) (DLIVE)
+https://dlive.sx/embed/stream-960.php parseUrl=2
 
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/tC1SZKwC/LIGA-Game-Placeholder.png" group-title="Live Events",CELTA VIGO-MALAGA (8) (FOXXY)
-https://foxxy.st/event/m-celta-vigo-vs-malaga-0913 parseUrl=1
+#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/7Zk5WYfY/LIGA-Game-Placeholder.png" group-title="Live Events",Brest-PSG (4) (TVAPP1)
+https://tvapp1.com/watch/2489493 parseUrl=2
 
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/tC1SZKwC/LIGA-Game-Placeholder.png" group-title="Live Events",CELTA VIGO-MALAGA (9) (24HSPORT)
-https://24hsport.tv/match/celta-vigo-vs-malaga-30175 parseUrl=1
+#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/7Zk5WYfY/LIGA-Game-Placeholder.png" group-title="Live Events",Brest-PSG (5) (DLIVE)
+https://dlive.sx/embed/stream-8074.php parseUrl=2
 
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/tC1SZKwC/LIGA-Game-Placeholder.png" group-title="Live Events",CELTA VIGO-MALAGA (10) (DLIVE)
-https://dlive.sx/embed/stream-8085.php parseUrl=2
+#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/7Zk5WYfY/LIGA-Game-Placeholder.png" group-title="Live Events",Brest-PSG (6) (HESGOAL)
+https://www.hesgoal.zone/hd-4/ parseUrl=2
 
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/SRHnvYyS/EPL-Game-Placeholder.png" group-title="Live Events",SHEFFIELD UNITED-WOLVERHAMPTON (W6)
-https://w6.sportsonliine.click/channels/hd/hd9.php parseUrl=2
+#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/7Zk5WYfY/LIGA-Game-Placeholder.png" group-title="Live Events",Brest-PSG (7) (FOXXY)
+https://foxxy.st/event/m-brest-vs-paris-saint-germain-0913 parseUrl=2
 
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/SRHnvYyS/EPL-Game-Placeholder.png" group-title="Live Events",SHEFFIELD UNITED-WOLVERHAMPTON (2) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5teA== parseUrl=2
+#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/7Zk5WYfY/LIGA-Game-Placeholder.png" group-title="Live Events",Brest-PSG (8) (STREAMSEAST)
+https://streamseast.ws/soccer/401876465/brest-vs-psg parseUrl=2
 
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/SRHnvYyS/EPL-Game-Placeholder.png" group-title="Live Events",SHEFFIELD UNITED-WOLVERHAMPTON (3) (W6)
-https://w6.sportsonliine.click/channels/bra/br2.php parseUrl=2
+#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/7Zk5WYfY/LIGA-Game-Placeholder.png" group-title="Live Events",Brest-PSG (9) (FUTBOLLIBRETVHD)
+https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg== parseUrl=2
 
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/SRHnvYyS/EPL-Game-Placeholder.png" group-title="Live Events",SHEFFIELD UNITED-WOLVERHAMPTON (4) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG41 parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/SRHnvYyS/EPL-Game-Placeholder.png" group-title="Live Events",SHEFFIELD UNITED-WOLVERHAMPTON (5) (TVAPP1)
-https://tvapp1.com/watch/2501326 parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/SRHnvYyS/EPL-Game-Placeholder.png" group-title="Live Events",SHEFFIELD UNITED-WOLVERHAMPTON (6) (GGSPORT)
-https://ggsport.live/match/sheffield-utd-vs-wolves-29863 parseUrl=2
+#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/7Zk5WYfY/LIGA-Game-Placeholder.png" group-title="Live Events",Brest-PSG (10) (DLIVE)
+https://dlive.sx/embed/stream-425.php parseUrl=2
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/28GMXtG2/Basket-TV.png" group-title="Sports",Basket TV (DLHD)
 https://dlhd.pk/embed/stream-404.php parseUrl=2
