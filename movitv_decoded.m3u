@@ -6,6 +6,18 @@ https://movitv.pro/nfl.txt parseUrl=8
 #EXTINF:-1 iso-id="US" type-id="002" tvg-logo="https://i.postimg.cc/VLrnWqc2/Redzone-Playlist.png" group-title="Live Events",NFL Red Zone Playlist 🏈 (MOVITV)
 https://movitv.pro/nfl.txt parseUrl=8
 
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/9ffgy2P9/LIGA-Game-Placeholder.png" group-title="Live Events",Flamengo-Corinthians (W6)
+https://w6.sportsonliine.click/channels/bra/br4.php parseUrl=2
+
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/9ffgy2P9/LIGA-Game-Placeholder.png" group-title="Live Events",Flamengo-Corinthians (2) (TVAPP1)
+https://tvapp1.com/watch/2398456 parseUrl=2
+
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/9ffgy2P9/LIGA-Game-Placeholder.png" group-title="Live Events",Flamengo-Corinthians (3) (HESGOAL)
+https://www.hesgoal.zone/br4/ parseUrl=2
+
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/9ffgy2P9/LIGA-Game-Placeholder.png" group-title="Live Events",Flamengo-Corinthians (4) (DLIVE)
+https://dlive.sx/embed/stream-88.php parseUrl=2
+
 #EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/YSSDQ7NW/LIGA-Game-Placeholder-2.png" group-title="Live Events",Famalicao-Sporting (W6)
 https://w6.sportsonliine.click/channels/pt/sporttv1.php parseUrl=2
 
