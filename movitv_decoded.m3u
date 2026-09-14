@@ -1,5 +1,62 @@
 #EXTM3U
 
+#EXTINF:-1 iso-id="US" type-id="#006" tvg-logo="https://i.postimg.cc/Rh0c10DZ/MLB-Playlist.png" group-title="Live Events",MLB Playlist ⚾️ (MOVITV)
+https://movitv.pro/mlb.txt parseUrl=8
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/C1Lv1LRy/SERIE-A-Game-Placeholder.png" group-title="Live Events",TORINO-ROMA (EMBEDHD)
+https://embedhd.pk/embed/hd-9.php parseUrl=2
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/C1Lv1LRy/SERIE-A-Game-Placeholder.png" group-title="Live Events",TORINO-ROMA (2) (W6)
+https://w6.sportsonliine.click/channels/hd/hd7.php parseUrl=2
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/C1Lv1LRy/SERIE-A-Game-Placeholder.png" group-title="Live Events",TORINO-ROMA (3) (FUTBOLLIBRETVHD)
+https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg== parseUrl=2
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/C1Lv1LRy/SERIE-A-Game-Placeholder.png" group-title="Live Events",TORINO-ROMA (4) (W6)
+https://w6.sportsonliine.click/channels/pt/sporttv1.php parseUrl=2
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/C1Lv1LRy/SERIE-A-Game-Placeholder.png" group-title="Live Events",TORINO-ROMA (5) (FUTBOLLIBRETVHD)
+https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y parseUrl=2
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/C1Lv1LRy/SERIE-A-Game-Placeholder.png" group-title="Live Events",TORINO-ROMA (6) (W6)
+https://w6.sportsonliine.click/channels/bra/br6.php parseUrl=2
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/C1Lv1LRy/SERIE-A-Game-Placeholder.png" group-title="Live Events",TORINO-ROMA (7) (TVAPP1)
+https://tvapp1.com/watch/2482173 parseUrl=2
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/C1Lv1LRy/SERIE-A-Game-Placeholder.png" group-title="Live Events",TORINO-ROMA (8) (GGSPORT)
+https://ggsport.live/match/torino-vs-as-roma-30159 parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/C1Lv1LRy/SERIE-A-Game-Placeholder.png" group-title="Live Events",TORINO-ROMA (9) (DLIVE)
+https://dlive.sx/embed/stream-845.php parseUrl=2
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/C1Lv1LRy/SERIE-A-Game-Placeholder.png" group-title="Live Events",TORINO-ROMA (10) (24HSPORT)
+https://24hsport.tv/match/torino-vs-as-roma-30159 parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/j2DZHg61/SERIE-A-Game-Placeholder.png" group-title="Live Events",COMO-PARMA (W6)
+https://w6.sportsonliine.click/channels/hd/hd8.php parseUrl=2
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/j2DZHg61/SERIE-A-Game-Placeholder.png" group-title="Live Events",COMO-PARMA (2) (TVAPP1)
+https://tvapp1.com/watch/2482177 parseUrl=2
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/j2DZHg61/SERIE-A-Game-Placeholder.png" group-title="Live Events",COMO-PARMA (3) (W6)
+https://w6.sportsonliine.click/channels/pt/sporttv3.php parseUrl=2
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/j2DZHg61/SERIE-A-Game-Placeholder.png" group-title="Live Events",COMO-PARMA (4) (FOXXY)
+https://foxxy.st/event/m-como-vs-parma-0914 parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/j2DZHg61/SERIE-A-Game-Placeholder.png" group-title="Live Events",COMO-PARMA (5) (GGSPORT)
+https://ggsport.live/match/como-vs-parma-30163 parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/j2DZHg61/SERIE-A-Game-Placeholder.png" group-title="Live Events",COMO-PARMA (6) (FOXXY)
+https://foxxy.st/event/m-como-vs-parma-0914/core/1 parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/j2DZHg61/SERIE-A-Game-Placeholder.png" group-title="Live Events",COMO-PARMA (7) (24HSPORT)
+https://24hsport.tv/match/como-vs-parma-30163 parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/j2DZHg61/SERIE-A-Game-Placeholder.png" group-title="Live Events",COMO-PARMA (8) (DLIVE)
+https://dlive.sx/embed/stream-68.php parseUrl=2
+
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/28GMXtG2/Basket-TV.png" group-title="Sports",Basket TV (DLHD)
 https://dlhd.pk/embed/stream-404.php parseUrl=2
 
