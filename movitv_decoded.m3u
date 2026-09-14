@@ -3,125 +3,188 @@
 #EXTINF:-1 iso-id="US" type-id="#006" tvg-logo="https://i.postimg.cc/Rh0c10DZ/MLB-Playlist.png" group-title="Live Events",MLB Playlist ⚾️ (MOVITV)
 https://movitv.pro/mlb.txt parseUrl=8
 
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/C1Lv1LRy/SERIE-A-Game-Placeholder.png" group-title="Live Events",TORINO-ROMA (EMBEDHD)
-https://embedhd.pk/embed/hd-9.php parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/C1Lv1LRy/SERIE-A-Game-Placeholder.png" group-title="Live Events",TORINO-ROMA (2) (W6)
-https://w6.sportsonliine.click/channels/hd/hd7.php parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/C1Lv1LRy/SERIE-A-Game-Placeholder.png" group-title="Live Events",TORINO-ROMA (3) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg== parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/C1Lv1LRy/SERIE-A-Game-Placeholder.png" group-title="Live Events",TORINO-ROMA (4) (W6)
+#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/Cx0Cg3wt/LIGA-Game-Placeholder-3.png" group-title="Live Events",Sporting Braga-Estoril Prahia (W6)
 https://w6.sportsonliine.click/channels/pt/sporttv1.php parseUrl=2
 
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/C1Lv1LRy/SERIE-A-Game-Placeholder.png" group-title="Live Events",TORINO-ROMA (5) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y parseUrl=2
+#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/Cx0Cg3wt/LIGA-Game-Placeholder-3.png" group-title="Live Events",Sporting Braga-Estoril Prahia (2) (TVAPP1)
+https://tvapp1.com/watch/2513981 parseUrl=2
 
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/C1Lv1LRy/SERIE-A-Game-Placeholder.png" group-title="Live Events",TORINO-ROMA (6) (W6)
-https://w6.sportsonliine.click/channels/bra/br6.php parseUrl=2
+#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/Cx0Cg3wt/LIGA-Game-Placeholder-3.png" group-title="Live Events",Sporting Braga-Estoril Prahia (3) (HESGOAL)
+https://www.hesgoal.zone/sport-tv1/ parseUrl=2
 
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/C1Lv1LRy/SERIE-A-Game-Placeholder.png" group-title="Live Events",TORINO-ROMA (7) (TVAPP1)
-https://tvapp1.com/watch/2482173 parseUrl=2
+#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/Cx0Cg3wt/LIGA-Game-Placeholder-3.png" group-title="Live Events",Sporting Braga-Estoril Prahia (4) (24HSPORT)
+https://24hsport.tv/match/sc-braga-vs-estoril-30145 parseUrl=2
 
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/C1Lv1LRy/SERIE-A-Game-Placeholder.png" group-title="Live Events",TORINO-ROMA (8) (GGSPORT)
-https://ggsport.live/match/torino-vs-as-roma-30159 parseUrl=1
+#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/Cx0Cg3wt/LIGA-Game-Placeholder-3.png" group-title="Live Events",Sporting Braga-Estoril Prahia (5) (GGSPORT)
+https://ggsport.live/match/sc-braga-vs-estoril-30145 parseUrl=2
 
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/C1Lv1LRy/SERIE-A-Game-Placeholder.png" group-title="Live Events",TORINO-ROMA (9) (DLIVE)
-https://dlive.sx/embed/stream-845.php parseUrl=2
+#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/Cx0Cg3wt/LIGA-Game-Placeholder-3.png" group-title="Live Events",Sporting Braga-Estoril Prahia (6) (FOXXY)
+https://foxxy.st/event/m-braga-vs-estoril-0914 parseUrl=2
 
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/C1Lv1LRy/SERIE-A-Game-Placeholder.png" group-title="Live Events",TORINO-ROMA (10) (24HSPORT)
-https://24hsport.tv/match/torino-vs-as-roma-30159 parseUrl=1
+#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/Cx0Cg3wt/LIGA-Game-Placeholder-3.png" group-title="Live Events",Sporting Braga-Estoril Prahia (7) (DLIVE)
+https://dlive.sx/embed/stream-49.php parseUrl=2
 
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/j2DZHg61/SERIE-A-Game-Placeholder.png" group-title="Live Events",COMO-PARMA (W6)
-https://w6.sportsonliine.click/channels/hd/hd8.php parseUrl=2
+#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/Cx0Cg3wt/LIGA-Game-Placeholder-3.png" group-title="Live Events",Sporting Braga-Estoril Prahia (8) (W6)
+https://w6.sportsonliine.click/channels/pt/sporttv1.php parseUrl=2
 
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/j2DZHg61/SERIE-A-Game-Placeholder.png" group-title="Live Events",COMO-PARMA (2) (TVAPP1)
-https://tvapp1.com/watch/2482177 parseUrl=2
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Z5mPSGJX/LIGA-Game-Placeholder.png" group-title="Live Events",Leeds United-Newcastle United (FOXXY)
+https://foxxy.st/event/m-leeds-united-vs-newcastle-united-0914 parseUrl=1
 
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/j2DZHg61/SERIE-A-Game-Placeholder.png" group-title="Live Events",COMO-PARMA (3) (W6)
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Z5mPSGJX/LIGA-Game-Placeholder.png" group-title="Live Events",Leeds United-Newcastle United (2) (W6)
+https://w6.sportsonliine.click/channels/hd/hd1.php parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Z5mPSGJX/LIGA-Game-Placeholder.png" group-title="Live Events",Leeds United-Newcastle United (3) (FUTBOLLIBRETVHD)
+https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg== parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Z5mPSGJX/LIGA-Game-Placeholder.png" group-title="Live Events",Leeds United-Newcastle United (4) (TVAPP1)
+https://tvapp1.com/watch/2494036 parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Z5mPSGJX/LIGA-Game-Placeholder.png" group-title="Live Events",Leeds United-Newcastle United (5) (HESGOAL)
+https://www.hesgoal.zone/hd-1/ parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Z5mPSGJX/LIGA-Game-Placeholder.png" group-title="Live Events",Leeds United-Newcastle United (6) (24HSPORT)
+https://24hsport.tv/match/leeds-vs-newcastle-30267 parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Z5mPSGJX/LIGA-Game-Placeholder.png" group-title="Live Events",Leeds United-Newcastle United (7) (GGSPORT)
+https://ggsport.live/match/leeds-vs-newcastle-30267 parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Z5mPSGJX/LIGA-Game-Placeholder.png" group-title="Live Events",Leeds United-Newcastle United (8) (FOXXY)
+https://foxxy.st/event/m-leeds-united-vs-newcastle-united-0914 parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Z5mPSGJX/LIGA-Game-Placeholder.png" group-title="Live Events",Leeds United-Newcastle United (9) (STREAMSGATES)
+https://streamsgates.pk/watch.html?sport=football&id=ppv-leeds-united-vs-newcastle-united parseUrl=2
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Z5mPSGJX/LIGA-Game-Placeholder.png" group-title="Live Events",Leeds United-Newcastle United (10) (DLIVE)
+https://dlive.sx/embed/stream-8.php parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZy7sJGS/LIGA-Game-Placeholder-2.png" group-title="Live Events",Villarreal-Real Betis (STREAMSGATES)
+https://streamsgates.io/#/soccer/villarreal-vs-real-betis parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZy7sJGS/LIGA-Game-Placeholder-2.png" group-title="Live Events",Villarreal-Real Betis (2) (W6)
+https://w6.sportsonliine.click/channels/hd/hd2.php parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZy7sJGS/LIGA-Game-Placeholder-2.png" group-title="Live Events",Villarreal-Real Betis (3) (FUTBOLLIBRETVHD)
+https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw== parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZy7sJGS/LIGA-Game-Placeholder-2.png" group-title="Live Events",Villarreal-Real Betis (4) (TVAPP1)
+https://tvapp1.com/watch/2506210 parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZy7sJGS/LIGA-Game-Placeholder-2.png" group-title="Live Events",Villarreal-Real Betis (5) (HESGOAL)
+https://www.hesgoal.zone/hd-2/ parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZy7sJGS/LIGA-Game-Placeholder-2.png" group-title="Live Events",Villarreal-Real Betis (6) (24HSPORT)
+https://24hsport.tv/match/villarreal-vs-real-betis-30171 parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZy7sJGS/LIGA-Game-Placeholder-2.png" group-title="Live Events",Villarreal-Real Betis (7) (GGSPORT)
+https://ggsport.live/match/villarreal-vs-real-betis-30171 parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZy7sJGS/LIGA-Game-Placeholder-2.png" group-title="Live Events",Villarreal-Real Betis (8) (FOXXY)
+https://foxxy.st/event/m-villarreal-vs-real-betis-0914 parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZy7sJGS/LIGA-Game-Placeholder-2.png" group-title="Live Events",Villarreal-Real Betis (9) (STREAMSGATES)
+https://streamsgates.pk/watch.html?sport=football&id=ppv-villarreal-vs-real-betis parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZy7sJGS/LIGA-Game-Placeholder-2.png" group-title="Live Events",Villarreal-Real Betis (10) (DLIVE)
+https://dlive.sx/embed/stream-84.php parseUrl=2
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/gc7Mzpmp/SERIE-A-Game-Placeholder.png" group-title="Live Events",INTER MILAN-UDINESE (EMBEDHD)
+https://embedhd.pk/embed/hd-9.php parseUrl=2
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/gc7Mzpmp/SERIE-A-Game-Placeholder.png" group-title="Live Events",INTER MILAN-UDINESE (2) (W6)
+https://w6.sportsonliine.click/channels/hd/hd5.php parseUrl=2
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/gc7Mzpmp/SERIE-A-Game-Placeholder.png" group-title="Live Events",INTER MILAN-UDINESE (3) (FUTBOLLIBRETVHD)
+https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu parseUrl=2
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/gc7Mzpmp/SERIE-A-Game-Placeholder.png" group-title="Live Events",INTER MILAN-UDINESE (4) (W6)
+https://w6.sportsonliine.click/channels/hd/hd7.php parseUrl=2
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/gc7Mzpmp/SERIE-A-Game-Placeholder.png" group-title="Live Events",INTER MILAN-UDINESE (5) (FUTBOLLIBRETVHD)
+https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4= parseUrl=2
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/gc7Mzpmp/SERIE-A-Game-Placeholder.png" group-title="Live Events",INTER MILAN-UDINESE (6) (W6)
 https://w6.sportsonliine.click/channels/pt/sporttv3.php parseUrl=2
 
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/j2DZHg61/SERIE-A-Game-Placeholder.png" group-title="Live Events",COMO-PARMA (4) (FOXXY)
-https://foxxy.st/event/m-como-vs-parma-0914 parseUrl=1
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/gc7Mzpmp/SERIE-A-Game-Placeholder.png" group-title="Live Events",INTER MILAN-UDINESE (7) (TVAPP1)
+https://tvapp1.com/watch/2482174 parseUrl=2
 
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/j2DZHg61/SERIE-A-Game-Placeholder.png" group-title="Live Events",COMO-PARMA (5) (GGSPORT)
-https://ggsport.live/match/como-vs-parma-30163 parseUrl=1
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/gc7Mzpmp/SERIE-A-Game-Placeholder.png" group-title="Live Events",INTER MILAN-UDINESE (8) (W6)
+https://w6.sportsonliine.click/channels/bra/br6.php parseUrl=2
 
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/j2DZHg61/SERIE-A-Game-Placeholder.png" group-title="Live Events",COMO-PARMA (6) (FOXXY)
-https://foxxy.st/event/m-como-vs-parma-0914/core/1 parseUrl=1
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/gc7Mzpmp/SERIE-A-Game-Placeholder.png" group-title="Live Events",INTER MILAN-UDINESE (9) (GGSPORT)
+https://ggsport.live/match/inter-vs-udinese-30269 parseUrl=1
 
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/j2DZHg61/SERIE-A-Game-Placeholder.png" group-title="Live Events",COMO-PARMA (7) (24HSPORT)
-https://24hsport.tv/match/como-vs-parma-30163 parseUrl=1
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/j2DZHg61/SERIE-A-Game-Placeholder.png" group-title="Live Events",COMO-PARMA (8) (DLIVE)
-https://dlive.sx/embed/stream-68.php parseUrl=2
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/gc7Mzpmp/SERIE-A-Game-Placeholder.png" group-title="Live Events",INTER MILAN-UDINESE (10) (24HSPORT)
+https://24hsport.tv/match/inter-vs-udinese-30269 parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/28GMXtG2/Basket-TV.png" group-title="Sports",Basket TV (DLHD)
-https://dlhd.pk/embed/stream-404.php parseUrl=2
+https://dlhd.pk/watch.php?id=404 parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/28GMXtG2/Basket-TV.png" group-title="Sports",Basket TV (2) (FOXTREND)
 https://foxtrend.gd/live-tv?ch=ch-nba-tv parseUrl=2
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://i.postimg.cc/9XBC6YzD/Bein-Sports-1.png" group-title="Sports",Bein Sports 1 (DLHD)
-https://dlhd.pk/embed/stream-91.php parseUrl=2
+https://dlhd.pk/watch.php?id=91 parseUrl=1
 
-#EXTINF:-1 iso-id="QA" tvg-logo="https://i.postimg.cc/HL5CBQFK/Bein-Sports-2.png" group-title="Sports",Bein Sports 2 (DLHD)
-https://dlhd.pk/embed/stream-92.php parseUrl=2
+#EXTINF:-1 iso-id="QA" tvg-logo="https://i.postimg.cc/HL5CBQFK/Bein-Sports-2.png" group-title="Sports",Bein Sports 2 (DLIVE)
+https://dlive.sx/plus/stream-92.php__Ref:"https://dlive.sx/"parseUrl=1
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://i.postimg.cc/CMJpPM6s/Bein-Sports-3.png" group-title="Sports",Bein Sports 3 (DLHD)
-https://dlhd.pk/embed/stream-93.php parseUrl=2
+https://dlhd.pk/watch.php?id=93 parseUrl=1
 
 #EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/YjKppdKM/Bein-Sports-1-ENG.png" group-title="Sports",Bein Sports 1 ENG (DLHD)
-https://dlhd.pk/embed/stream-61.php parseUrl=2
+https://dlhd.pk/watch.php?id=61 parseUrl=1
 
-#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/zfB32PqB/Bein-Sports-2-ENG.png" group-title="Sports",Bein Sports 2 ENG (DADDYLIVE)
-https://daddylive.sx/embed/stream-90.php parseUrl=2
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/zfB32PqB/Bein-Sports-2-ENG.png" group-title="Sports",Bein Sports 2 ENG (DLHD)
+https://dlhd.pk/watch.php?id=90 parseUrl=1
 
-#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/25639XC5/Bein-Sports-3-ENG.png" group-title="Sports",Bein Sports 3 ENG (DADDYLIVE)
-https://daddylive.sx/embed/stream-46.php parseUrl=2
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/25639XC5/Bein-Sports-3-ENG.png" group-title="Sports",Bein Sports 3 ENG (DLHD)
+https://dlhd.pk/watch.php?id=46 parseUrl=1
 
 #EXTINF:-1 iso-id="MX" tvg-logo="https://i.postimg.cc/LsXhQ0mn/Bein-Sports.png" group-title="Sports",Bein Sports Ñ (DLHD)
-https://dlhd.pk/embed/stream-372.php parseUrl=2
+https://dlhd.pk/watch.php?id=372 parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/wBv34b93/Bein-Sports-US.png" group-title="Sports",Bein Sports USA (DLHD)
-https://dlhd.pk/embed/stream-425.php parseUrl=2
+https://dlhd.pk/watch.php?id=425 parseUrl=1
 
 #EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/B6mp9zFq/TNT-Sports-1.png" group-title="Sports",TNT Sports 1 (DLHD)
-https://dlhd.pk/embed/stream-31.php parseUrl=2
+https://dlhd.pk/watch.php?id=31 parseUrl=1
 
-#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/DZx6kNGv/TNT-Sports-2.png" group-title="Sports",TNT Sports 2 (DLSTREAMS)
-https://dlstreams.st/cast/stream-32.php__Ref:"https://dlstreams.st/"parseUrl=2
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/DZx6kNGv/TNT-Sports-2.png" group-title="Sports",TNT Sports 2 (DLHD)
+https://dlhd.pk/watch.php?id=32 parseUrl=1
 
-#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/1tvBhdFR/TNT-Sports-3.png" group-title="Sports",TNT Sports 3 (DLSTREAMS)
-https://dlstreams.st/cast/stream-33.php__Ref:"https://dlstreams.st/"parseUrl=2
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/1tvBhdFR/TNT-Sports-3.png" group-title="Sports",TNT Sports 3 (DLHD)
+https://dlhd.pk/watch.php?id=33 parseUrl=1
 
 #EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/85Z4QYvz/TNT-Sports-4.png" group-title="Sports",TNT Sports 4 (DLHD)
-https://dlhd.pk/embed/stream-34.php parseUrl=2
+https://dlhd.pk/watch.php?id=34 parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/gcshs5Fw/CBS-Sports.png" group-title="Sports",CBS Sports (DLHD)
-https://dlhd.pk/embed/stream-308.php parseUrl=2
+https://dlhd.pk/watch.php?id=308 parseUrl=1
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/gcshs5Fw/CBS-Sports.png" group-title="Sports",CBS Sports (2) (FOXXY)
+https://foxxy.st/live-tv/cbs-sports-network parseUrl=1
 
 #EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/3JvqmKp3/Cloud-Sports-Action.png" group-title="Sports",Cloud Sports Action (DLHD)
-https://dlhd.pk/embed/stream-37.php parseUrl=2
+https://dlhd.pk/watch.php?id=37 parseUrl=1
 
 #EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/3JvqmKp3/Cloud-Sports-Action.png" group-title="Sports",Cloud Sports Action (2) (PLAYCRICHD)
 https://playcrichd.st/update/fetch.php?hd=1&embed=1 parseUrl=2
 
-#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/CLq2kFDL/Cloud-Sports-Cricket.png" group-title="Sports",Cloud Sports Cricket (DLSTREAMS)
-https://dlstreams.st/cast/stream-65.php__Ref:"https://dlstreams.st/"parseUrl=2
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/CLq2kFDL/Cloud-Sports-Cricket.png" group-title="Sports",Cloud Sports Cricket (DLHD)
+https://dlhd.pk/watch.php?id=65 parseUrl=1
 
-#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/CLq2kFDL/Cloud-Sports-Cricket.png" group-title="Sports",Cloud Sports Cricket (PLAYCRICHD)
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/CLq2kFDL/Cloud-Sports-Cricket.png" group-title="Sports",Cloud Sports Cricket (2) (PLAYCRICHD)
 https://playcrichd.st/update/fetch.php?hd=2&embed=1 parseUrl=2
 
-#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/bNt5kzbY/Cloud-Sports-Football.png" group-title="Sports",Cloud Sports Football (DLHD)
-https://dlhd.pk/embed/stream-35.php parseUrl=2
+#EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/bNt5kzbY/Cloud-Sports-Football.png" group-title="Sports",Cloud Sports Football (DLIVE)
+https://dlive.sx/plus/stream-35.php__Ref:"https://dlive.sx/"parseUrl=1
 
 #EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/vHVKfQ9T/Cloud-Sports-Golf.png" group-title="Sports",Cloud Sports Golf (DLHD)
-https://dlhd.pk/embed/stream-70.php parseUrl=2
+https://dlhd.pk/watch.php?id=70 parseUrl=1
 
 #EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/dtyfrqdh/Cloud-Sports-Main.png" group-title="Sports",Cloud Sports Main (DLHD)
-https://dlhd.pk/embed/stream-38.php parseUrl=2
+https://dlhd.pk/watch.php?id=38 parseUrl=1
 
 #EXTINF:-1 iso-id="GB-ENG" tvg-logo="https://i.postimg.cc/dtyfrqdh/Cloud-Sports-Main.png" group-title="Sports",Cloud Sports Main (2) (PLAYCRICHD)
 https://playcrichd.st/update/fetch.php?hd=1&embed=1 parseUrl=2
@@ -130,16 +193,16 @@ https://playcrichd.st/update/fetch.php?hd=1&embed=1 parseUrl=2
 https://wsdeportes.net/?v=dsportsplus parseUrl=2
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/nLKrzjp6/ESPN.png" group-title="Sports",ESPN (DLHD)
-https://dlhd.pk/embed/stream-44.php parseUrl=2
+https://dlhd.pk/watch.php?id=44 parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/nLKrzjp6/ESPN.png" group-title="Sports",ESPN (2) (FOXTREND)
 https://foxtrend.gd/live-tv?ch=ch-espn parseUrl=2
 
 #EXTINF:-1 iso-id="MX" tvg-logo="https://i.postimg.cc/zfY38SYr/ESPN-Deportes.png" group-title="Sports",ESPN Deportes (DLHD)
-https://dlhd.pk/embed/stream-375.php parseUrl=2
+https://dlhd.pk/watch.php?id=375 parseUrl=1
 
-#EXTINF:-1 iso-id="MX" tvg-logo="https://i.postimg.cc/zfY38SYr/ESPN-Deportes.png" group-title="Sports",ESPN MX 1 (TVNOW247)
-https://tvnow247.top/watch/espn-1-mx/ parseUrl=2
+#EXTINF:-1 iso-id="MX" tvg-logo="https://i.postimg.cc/zfY38SYr/ESPN-Deportes.png" group-title="Sports",ESPN MX 1 (FOXXY)
+https://foxxy.st/live-tv/espn-deportes parseUrl=1
 
 #EXTINF:-1 iso-id="AR" tvg-logo="https://i.postimg.cc/Dwmw5HLs/ESPN-Sur-1.png" group-title="Sports",ESPN SUR (DLSTREAMS)
 https://dlstreams.st/cast/stream-149.php__Ref:"https://dlstreams.st/"parseUrl=2
@@ -153,71 +216,71 @@ https://dlstreams.st/cast/stream-150.php__Ref:"https://dlstreams.st/"parseUrl=2
 #EXTINF:-1 iso-id="AR" tvg-logo="https://i.postimg.cc/1343M2wF/ESPN-Sur-2.png" group-title="Sports",ESPN SUR 2 (2) (WSDEPORTES)
 https://wsdeportes.net/?v=espn2 parseUrl=2
 
-#EXTINF:-1 iso-id="AR" tvg-logo="https://i.postimg.cc/2S3STMhh/ESPN-Sur-3.png" group-title="Sports",ESPN SUR 3 (DLSTREAMS)
-https://dlstreams.st/cast/stream-798.php__Ref:"https://dlstreams.st/"parseUrl=2
+#EXTINF:-1 iso-id="AR" tvg-logo="https://i.postimg.cc/2S3STMhh/ESPN-Sur-3.png" group-title="Sports",ESPN SUR 3 (DLHD)
+https://dlhd.pk/watch.php?id=798 parseUrl=1
 
 #EXTINF:-1 iso-id="AR" tvg-logo="https://i.postimg.cc/2S3STMhh/ESPN-Sur-3.png" group-title="Sports",ESPN SUR 3 (3) (WSDEPORTES)
 https://wsdeportes.net/?v=espn3 parseUrl=2
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="Sports",FS1 (DLHD)
-https://dlhd.pk/embed/stream-39.php parseUrl=2
+https://dlhd.pk/watch.php?id=39 parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/HLqhy1WV/FS1.png" group-title="Sports",FS1 (2) (FOXTREND)
 https://foxtrend.gd/live-tv?ch=ch-fox-sports-1 parseUrl=2
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/Lscb1F4J/FS2.png" group-title="Sports",FS2 (DLHD)
-https://dlhd.pk/embed/stream-758.php parseUrl=2
+https://dlhd.pk/watch.php?id=758 parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/Lscb1F4J/FS2.png" group-title="Sports",FS2 (2) (FOXTREND)
 https://foxtrend.gd/live-tv?ch=ch-fox-sports-2 parseUrl=2
 
 #EXTINF:-1 iso-id="MX" tvg-logo="https://i.postimg.cc/jqJp5M34/FOX-Deportes.png" group-title="Sports",Fox Deportes (DLHD)
-https://dlhd.pk/embed/stream-643.php parseUrl=2
+https://dlhd.pk/watch.php?id=643 parseUrl=1
 
 #EXTINF:-1 iso-id="MX" tvg-logo="https://i.postimg.cc/jqJp5M34/FOX-Deportes.png" group-title="Sports",Fox Deportes (2) (FOXTREND)
 https://foxtrend.gd/live-tv?ch=ch-fox-deportes parseUrl=2
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/TPLs13xw/Tennis-Channel.png" group-title="Sports",Tennis Channel (DLHD)
-https://dlhd.pk/embed/stream-40.php parseUrl=2
+https://dlhd.pk/watch.php?id=40 parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/TPLs13xw/Tennis-Channel.png" group-title="Sports",Tennis Channel (2) (FOXTREND)
 https://foxtrend.gd/live-tv?ch=ch-tennis-channel parseUrl=2
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/j5BBcf2g/TUDN.png" group-title="Sports",TUDN USA (DLHD)
-https://dlhd.pk/embed/stream-66.php parseUrl=2
+https://dlhd.pk/watch.php?id=66 parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/j5BBcf2g/TUDN.png" group-title="Sports",TUDN USA (2) (WSDEPORTES)
 https://wsdeportes.net/?v=tudnus parseUrl=2
 
 #EXTINF:-1 iso-id="MX" tvg-logo="https://i.postimg.cc/j5BBcf2g/TUDN.png" group-title="Sports",TUDN MX (DLHD)
-https://dlhd.pk/embed/stream-935.php parseUrl=2
+https://dlhd.pk/watch.php?id=935 parseUrl=1
 
 #EXTINF:-1 iso-id="MX" tvg-logo="https://i.postimg.cc/j5BBcf2g/TUDN.png" group-title="Sports",TUDN MX (2) (FOXTREND)
 https://foxtrend.gd/live-tv?ch=ch-tudn parseUrl=2
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/mrxzsrn9/A-E.png" group-title="Entertainment",A&E (DLHD)
-https://dlhd.pk/embed/stream-302.php parseUrl=1
+https://dlhd.pk/watch.php?id=302 parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/mrxzsrn9/A-E.png" group-title="Entertainment",A&E (2) (FOXXY)
 https://foxxy.st/live-tv/ae parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/Mx4vrrDZ/AMC.png" group-title="Entertainment",AMC (DLHD)
-https://dlhd.pk/embed/stream-303.php parseUrl=1
+https://dlhd.pk/watch.php?id=303 parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/Mx4vrrDZ/AMC.png" group-title="Entertainment",AMC (2) (FOXXY)
 https://foxxy.st/live-tv/amc parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/bYRztfXB/CBS.png" group-title="Entertainment",CBS (DLHD)
-https://dlhd.pk/embed/stream-52.php parseUrl=2
+https://dlhd.pk/watch.php?id=52 parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/bYRztfXB/CBS.png" group-title="Entertainment",CBS (2) (FOXTREND)
 https://foxtrend.gd/live-tv?ch=ch-cbs parseUrl=2
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/BHzDrX61/HBO.png" group-title="Entertainment",HBO (DLHD)
-https://dlhd.pk/embed/stream-321.php parseUrl=1
+https://dlhd.pk/watch.php?id=321 parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/BHzDrX61/HBO.png" group-title="Entertainment",HBO (2) (FOXXY)
 https://foxxy.st/live-tv/hbo parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/svsTNmGN/Paramount-Network.png" group-title="Entertainment",Paramount Network (DLHD)
-https://dlhd.pk/embed/stream-334.php parseUrl=1
+https://dlhd.pk/watch.php?id=334 parseUrl=1
