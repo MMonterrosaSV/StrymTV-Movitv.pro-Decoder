@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 iso-id="US" type-id="#002" tvg-logo="https://i.postimg.cc/Hsq5ZrY7/NFL-Playlist.png" group-title="Live Events",NFL Playlist 🏈 (MOVITV)
-https://movitv.pro/nfl.txt parseUrl=8
-
-#EXTINF:-1 iso-id="US" type-id="002" tvg-logo="https://i.postimg.cc/VLrnWqc2/Redzone-Playlist.png" group-title="Live Events",NFL Red Zone Playlist 🏈 (MOVITV)
-https://movitv.pro/nfl.txt parseUrl=8
-
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/28GMXtG2/Basket-TV.png" group-title="Sports",Basket TV (DLHD)
 https://dlhd.pk/embed/stream-404.php parseUrl=2
 
@@ -150,6 +144,12 @@ https://dlhd.pk/embed/stream-302.php parseUrl=1
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/mrxzsrn9/A-E.png" group-title="Entertainment",A&E (2) (FOXXY)
 https://foxxy.st/live-tv/ae parseUrl=1
 
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/Mx4vrrDZ/AMC.png" group-title="Entertainment",AMC (DLHD)
+https://dlhd.pk/embed/stream-303.php parseUrl=1
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/Mx4vrrDZ/AMC.png" group-title="Entertainment",AMC (2) (FOXXY)
+https://foxxy.st/live-tv/amc parseUrl=1
+
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/bYRztfXB/CBS.png" group-title="Entertainment",CBS (DLHD)
 https://dlhd.pk/embed/stream-52.php parseUrl=2
 
@@ -161,3 +161,6 @@ https://dlhd.pk/embed/stream-321.php parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/BHzDrX61/HBO.png" group-title="Entertainment",HBO (2) (FOXXY)
 https://foxxy.st/live-tv/hbo parseUrl=1
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/svsTNmGN/Paramount-Network.png" group-title="Entertainment",Paramount Network (DLHD)
+https://dlhd.pk/embed/stream-334.php parseUrl=1
