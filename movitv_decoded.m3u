@@ -3,125 +3,14 @@
 #EXTINF:-1 iso-id="US" type-id="#006" tvg-logo="https://i.postimg.cc/Rh0c10DZ/MLB-Playlist.png" group-title="Live Events",MLB Playlist ⚾️ (MOVITV)
 https://movitv.pro/mlb.txt parseUrl=8
 
-#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/Cx0Cg3wt/LIGA-Game-Placeholder-3.png" group-title="Live Events",Sporting Braga-Estoril Prahia (W6)
-https://w6.sportsonliine.click/channels/pt/sporttv1.php parseUrl=2
-
-#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/Cx0Cg3wt/LIGA-Game-Placeholder-3.png" group-title="Live Events",Sporting Braga-Estoril Prahia (2) (TVAPP1)
-https://tvapp1.com/watch/2513981 parseUrl=2
-
-#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/Cx0Cg3wt/LIGA-Game-Placeholder-3.png" group-title="Live Events",Sporting Braga-Estoril Prahia (3) (HESGOAL)
-https://www.hesgoal.zone/sport-tv1/ parseUrl=2
-
-#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/Cx0Cg3wt/LIGA-Game-Placeholder-3.png" group-title="Live Events",Sporting Braga-Estoril Prahia (4) (24HSPORT)
-https://24hsport.tv/match/sc-braga-vs-estoril-30145 parseUrl=2
-
-#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/Cx0Cg3wt/LIGA-Game-Placeholder-3.png" group-title="Live Events",Sporting Braga-Estoril Prahia (5) (GGSPORT)
-https://ggsport.live/match/sc-braga-vs-estoril-30145 parseUrl=2
-
-#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/Cx0Cg3wt/LIGA-Game-Placeholder-3.png" group-title="Live Events",Sporting Braga-Estoril Prahia (6) (FOXXY)
-https://foxxy.st/event/m-braga-vs-estoril-0914 parseUrl=2
-
-#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/Cx0Cg3wt/LIGA-Game-Placeholder-3.png" group-title="Live Events",Sporting Braga-Estoril Prahia (7) (DLIVE)
-https://dlive.sx/embed/stream-49.php parseUrl=2
-
-#EXTINF:-1 iso-id="PT" type-id="#001" tvg-logo="https://i.postimg.cc/Cx0Cg3wt/LIGA-Game-Placeholder-3.png" group-title="Live Events",Sporting Braga-Estoril Prahia (8) (W6)
-https://w6.sportsonliine.click/channels/pt/sporttv1.php parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Z5mPSGJX/LIGA-Game-Placeholder.png" group-title="Live Events",Leeds United-Newcastle United (FOXXY)
-https://foxxy.st/event/m-leeds-united-vs-newcastle-united-0914 parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Z5mPSGJX/LIGA-Game-Placeholder.png" group-title="Live Events",Leeds United-Newcastle United (2) (W6)
-https://w6.sportsonliine.click/channels/hd/hd1.php parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Z5mPSGJX/LIGA-Game-Placeholder.png" group-title="Live Events",Leeds United-Newcastle United (3) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg== parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Z5mPSGJX/LIGA-Game-Placeholder.png" group-title="Live Events",Leeds United-Newcastle United (4) (TVAPP1)
-https://tvapp1.com/watch/2494036 parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Z5mPSGJX/LIGA-Game-Placeholder.png" group-title="Live Events",Leeds United-Newcastle United (5) (HESGOAL)
-https://www.hesgoal.zone/hd-1/ parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Z5mPSGJX/LIGA-Game-Placeholder.png" group-title="Live Events",Leeds United-Newcastle United (6) (24HSPORT)
-https://24hsport.tv/match/leeds-vs-newcastle-30267 parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Z5mPSGJX/LIGA-Game-Placeholder.png" group-title="Live Events",Leeds United-Newcastle United (7) (GGSPORT)
-https://ggsport.live/match/leeds-vs-newcastle-30267 parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Z5mPSGJX/LIGA-Game-Placeholder.png" group-title="Live Events",Leeds United-Newcastle United (8) (FOXXY)
-https://foxxy.st/event/m-leeds-united-vs-newcastle-united-0914 parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Z5mPSGJX/LIGA-Game-Placeholder.png" group-title="Live Events",Leeds United-Newcastle United (9) (STREAMSGATES)
-https://streamsgates.pk/watch.html?sport=football&id=ppv-leeds-united-vs-newcastle-united parseUrl=2
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/Z5mPSGJX/LIGA-Game-Placeholder.png" group-title="Live Events",Leeds United-Newcastle United (10) (DLIVE)
-https://dlive.sx/embed/stream-8.php parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZy7sJGS/LIGA-Game-Placeholder-2.png" group-title="Live Events",Villarreal-Real Betis (STREAMSGATES)
-https://streamsgates.io/#/soccer/villarreal-vs-real-betis parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZy7sJGS/LIGA-Game-Placeholder-2.png" group-title="Live Events",Villarreal-Real Betis (2) (W6)
-https://w6.sportsonliine.click/channels/hd/hd2.php parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZy7sJGS/LIGA-Game-Placeholder-2.png" group-title="Live Events",Villarreal-Real Betis (3) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw== parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZy7sJGS/LIGA-Game-Placeholder-2.png" group-title="Live Events",Villarreal-Real Betis (4) (TVAPP1)
-https://tvapp1.com/watch/2506210 parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZy7sJGS/LIGA-Game-Placeholder-2.png" group-title="Live Events",Villarreal-Real Betis (5) (HESGOAL)
-https://www.hesgoal.zone/hd-2/ parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZy7sJGS/LIGA-Game-Placeholder-2.png" group-title="Live Events",Villarreal-Real Betis (6) (24HSPORT)
-https://24hsport.tv/match/villarreal-vs-real-betis-30171 parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZy7sJGS/LIGA-Game-Placeholder-2.png" group-title="Live Events",Villarreal-Real Betis (7) (GGSPORT)
-https://ggsport.live/match/villarreal-vs-real-betis-30171 parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZy7sJGS/LIGA-Game-Placeholder-2.png" group-title="Live Events",Villarreal-Real Betis (8) (FOXXY)
-https://foxxy.st/event/m-villarreal-vs-real-betis-0914 parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZy7sJGS/LIGA-Game-Placeholder-2.png" group-title="Live Events",Villarreal-Real Betis (9) (STREAMSGATES)
-https://streamsgates.pk/watch.html?sport=football&id=ppv-villarreal-vs-real-betis parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZy7sJGS/LIGA-Game-Placeholder-2.png" group-title="Live Events",Villarreal-Real Betis (10) (DLIVE)
-https://dlive.sx/embed/stream-84.php parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/gc7Mzpmp/SERIE-A-Game-Placeholder.png" group-title="Live Events",INTER MILAN-UDINESE (EMBEDHD)
-https://embedhd.pk/embed/hd-9.php parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/gc7Mzpmp/SERIE-A-Game-Placeholder.png" group-title="Live Events",INTER MILAN-UDINESE (2) (W6)
-https://w6.sportsonliine.click/channels/hd/hd5.php parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/gc7Mzpmp/SERIE-A-Game-Placeholder.png" group-title="Live Events",INTER MILAN-UDINESE (3) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/gc7Mzpmp/SERIE-A-Game-Placeholder.png" group-title="Live Events",INTER MILAN-UDINESE (4) (W6)
-https://w6.sportsonliine.click/channels/hd/hd7.php parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/gc7Mzpmp/SERIE-A-Game-Placeholder.png" group-title="Live Events",INTER MILAN-UDINESE (5) (FUTBOLLIBRETVHD)
-https://futbollibretvhd.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4= parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/gc7Mzpmp/SERIE-A-Game-Placeholder.png" group-title="Live Events",INTER MILAN-UDINESE (6) (W6)
-https://w6.sportsonliine.click/channels/pt/sporttv3.php parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/gc7Mzpmp/SERIE-A-Game-Placeholder.png" group-title="Live Events",INTER MILAN-UDINESE (7) (TVAPP1)
-https://tvapp1.com/watch/2482174 parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/gc7Mzpmp/SERIE-A-Game-Placeholder.png" group-title="Live Events",INTER MILAN-UDINESE (8) (W6)
-https://w6.sportsonliine.click/channels/bra/br6.php parseUrl=2
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/gc7Mzpmp/SERIE-A-Game-Placeholder.png" group-title="Live Events",INTER MILAN-UDINESE (9) (GGSPORT)
-https://ggsport.live/match/inter-vs-udinese-30269 parseUrl=1
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/gc7Mzpmp/SERIE-A-Game-Placeholder.png" group-title="Live Events",INTER MILAN-UDINESE (10) (24HSPORT)
-https://24hsport.tv/match/inter-vs-udinese-30269 parseUrl=1
-
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/28GMXtG2/Basket-TV.png" group-title="Sports",Basket TV (DLHD)
 https://dlhd.pk/watch.php?id=404 parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/28GMXtG2/Basket-TV.png" group-title="Sports",Basket TV (2) (FOXTREND)
 https://foxtrend.gd/live-tv?ch=ch-nba-tv parseUrl=2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/28GMXtG2/Basket-TV.png" group-title="Sports",Basket TV (3) (STREAMSPORTS99)
+https://streamsports99.su/live-tv/NBA%20TV__us parseUrl=1
 
 #EXTINF:-1 iso-id="QA" tvg-logo="https://i.postimg.cc/9XBC6YzD/Bein-Sports-1.png" group-title="Sports",Bein Sports 1 (DLHD)
 https://dlhd.pk/watch.php?id=91 parseUrl=1
