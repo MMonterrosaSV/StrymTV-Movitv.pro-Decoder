@@ -173,3 +173,12 @@ https://foxxy.st/live-tv/hbo parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/svsTNmGN/Paramount-Network.png" group-title="Entertainment",Paramount Network (DLHD)
 https://dlhd.pk/watch.php?id=334 parseUrl=1
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/G3Cq8mXC/USA-NETWORK.png" group-title="Entertainment",USA Network (DLIVE)
+https://dlive.sx/watch.php?id=343 parseUrl=1
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/G3Cq8mXC/USA-NETWORK.png" group-title="Entertainment",USA Network (2) (FOXXY)
+https://foxxy.st/live-tv/usa-network parseUrl=1
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/G3Cq8mXC/USA-NETWORK.png" group-title="Entertainment",USA Network (3) (STREAMSPORTS99)
+https://streamsports99.su/live-tv/USA%20Network__us parseUrl=1
