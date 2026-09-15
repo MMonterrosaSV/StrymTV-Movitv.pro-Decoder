@@ -3,155 +3,29 @@
 #EXTINF:-1 iso-id="US" type-id="#006" tvg-logo="https://i.postimg.cc/Rh0c10DZ/MLB-Playlist.png" group-title="Live Events",MLB Playlist ⚾️ (MOVITV)
 https://movitv.pro/mlb.txt parseUrl=8
 
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/6qQdVQmq/EFL-Playlist.png" group-title="Live Events",EFL Playlist ⚽️ (MOVITV)
-https://movitv.pro/efl.txt parseUrl=8
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/cL1KbccJ/LIGA-Game-Placeholder-3.png" group-title="Live Events",Elche-Real Madrid (FOXXY)
-https://foxxy.st/event/m-elche-vs-real-madrid-0915/main/1 parseUrl=1
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/cL1KbccJ/LIGA-Game-Placeholder-3.png" group-title="Live Events",Elche-Real Madrid (2) (W6)
-https://w6.sportsonliine.click/channels/hd/hd2.php parseUrl=1
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/cL1KbccJ/LIGA-Game-Placeholder-3.png" group-title="Live Events",Elche-Real Madrid (3) (TV-90)
-https://tv-90.com/dsportsar.php parseUrl=1
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/cL1KbccJ/LIGA-Game-Placeholder-3.png" group-title="Live Events",Elche-Real Madrid (4) (TVAPP1)
-https://tvapp1.com/watch/2506228 parseUrl=1
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/cL1KbccJ/LIGA-Game-Placeholder-3.png" group-title="Live Events",Elche-Real Madrid (5) (HESGOAL)
-https://www.hesgoal.zone/watch/hd-2.htm parseUrl=1
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/cL1KbccJ/LIGA-Game-Placeholder-3.png" group-title="Live Events",Elche-Real Madrid (6) (24HSPORT)
-https://24hsport.tv/match/elche-vs-real-madrid-30347 parseUrl=1
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/cL1KbccJ/LIGA-Game-Placeholder-3.png" group-title="Live Events",Elche-Real Madrid (7) (FOXXY)
-https://foxxy.st/event/m-elche-vs-real-madrid-0915/main/1 parseUrl=1
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/cL1KbccJ/LIGA-Game-Placeholder-3.png" group-title="Live Events",Elche-Real Madrid (8) (STREAMSGATES)
-https://streamsgates.pk/watch.html?sport=football&id=elche-vs-real-madrid-2506228 parseUrl=1
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/cL1KbccJ/LIGA-Game-Placeholder-3.png" group-title="Live Events",Elche-Real Madrid (9) (DLIVE)
-https://dlive.sx/embed/stream-84.php parseUrl=1
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/cL1KbccJ/LIGA-Game-Placeholder-3.png" group-title="Live Events",Elche-Real Madrid (10) (DLIVE)
-https://dlive.sx/embed/stream-45.php parseUrl=1
-
-EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/BnZ8VCC6/LIGA-Game-Placeholder-4.png" group-title="Live Events",Ipswich Town-Arsenal
-XmoUNb2=|CW^Z_Sc`kEwFJ*RRZgekgEopFbcWGm2Ep%^pZY_3mEn#wVWo}_?EigGTH6U<da&u)>a%?>@
-
-EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/BnZ8VCC6/LIGA-Game-Placeholder-4.png" group-title="Live Events",Ipswich Town-Arsenal (2)
-XmoUNb2=|CcQ!6_aBp&Sb8l{JX=!d{E@NzIV{0#CXkl({Wo&aVXk;&FWHl~uXmB8KVRCb2RdQ@SF#
-
-EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/BnZ8VCC6/LIGA-Game-Placeholder-4.png" group-title="Live Events",Ipswich Town-Arsenal (3)
-XmoUNb2=|CbarMrFfL<nZ7(q{aA<Hpb98cLVQoERX>)F6c{w0(VRCb2RdQ@SF#
-
-EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/BnZ8VCC6/LIGA-Game-Placeholder-4.png" group-title="Live Events",Ipswich Town-Arsenal (4)
-XmoUNb2=|Cbar8Ia4{}pZ*4DkVRU0?FETYbG&D6iAaG%Fb7fU>Y&|g
-
-EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/BnZ8VCC6/LIGA-Game-Placeholder-4.png" group-title="Live Events",Ipswich Town-Arsenal (5)
-XmoUNb2=|CcXxL#Xk~L}Z((dMdT(xJFLz;dV`wjEWGyu=Xmo8LaA9(DWmR%)Juv
-
-EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/BnZ8VCC6/LIGA-Game-Placeholder-4.png" group-title="Live Events",Ipswich Town-Arsenal (6)
-XmoUNb2=|CGBjv&aBp&SE_8M;ZDDj{XfJ7Sb9ZTDXf1YgEn#wVWo}_?Ei*JQFgYM_VRCb2RdQ@SF#
-
-EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/BnZ8VCC6/LIGA-Game-Placeholder-4.png" group-title="Live Events",Ipswich Town-Arsenal (7)
-XmoUNb2=|CW^Z_Sc`kEwFJ*RRZgekgEopFbcWGm2Ep%^pZY_3mEn#wVWo}_?EigGTH6U<da&u)>a%?>@
-
-EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/BnZ8VCC6/LIGA-Game-Placeholder-4.png" group-title="Live Events",Ipswich Town-Arsenal (8)
-XmoUNb2=|Cb98cLVQq6~VRU74E^uovcVTp6Xf9}UZEQbtaBp&SJ!WrjbYfv_Y$j=BJ!x=rcWGm2Ep%^pZY_3mEn#wVWo}_?EiyGZG&D6iAaG%Fb7fU>Y&|g
-
-EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/BnZ8VCC6/LIGA-Game-Placeholder-4.png" group-title="Live Events",Ipswich Town-Arsenal (9)
-XmoUNb2=|CWNc}6WiE4gFJ*0FWn?dNbaG{3Z7nx6E^ugYAaG%Fb7fU>Y&|g
-
-EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/BnZ8VCC6/LIGA-Game-Placeholder-4.png" group-title="Live Events",Ipswich Town-Arsenal (10)
-XmoUNb2=|CWNc}6WiE4gFJ*0FWn?dNbaG{3Z7ne|H!g5!a3FADa&u)>a%?>@
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/tgHmdL5H/EPL-Game-Placeholder.png" group-title="Live Events",LIVERPOOL-TOTTENHAM (W6)
-https://w6.sportsonliine.click/channels/hd/hd1.php parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/tgHmdL5H/EPL-Game-Placeholder.png" group-title="Live Events",LIVERPOOL-TOTTENHAM (2) (TVF90)
-https://tvf90.com/canal.php?stream=espn parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/tgHmdL5H/EPL-Game-Placeholder.png" group-title="Live Events",LIVERPOOL-TOTTENHAM (3) (W6)
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/q7P8tZPz/LIGA-Game-Placeholder-3.png" group-title="Live Events",Platense-Fluminense (W6)
 https://w6.sportsonliine.click/channels/pt/sporttv1.php parseUrl=1
 
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/tgHmdL5H/EPL-Game-Placeholder.png" group-title="Live Events",LIVERPOOL-TOTTENHAM (4) (TVF90)
-https://tvf90.com/3.php?stream=espn parseUrl=1
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/q7P8tZPz/LIGA-Game-Placeholder-3.png" group-title="Live Events",Platense-Fluminense (2) (TVF90)
+https://tvf90.com/hd.php?stream=espn2 parseUrl=1
 
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/tgHmdL5H/EPL-Game-Placeholder.png" group-title="Live Events",LIVERPOOL-TOTTENHAM (5) (W6)
-https://w6.sportsonliine.click/channels/bra/br2.php parseUrl=1
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/q7P8tZPz/LIGA-Game-Placeholder-3.png" group-title="Live Events",Platense-Fluminense (3) (HESGOAL)
+https://www.hesgoal.zone/sport-tv1/ parseUrl=1
 
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/tgHmdL5H/EPL-Game-Placeholder.png" group-title="Live Events",LIVERPOOL-TOTTENHAM (6) (TVF90)
-https://tvf90.com/1.php?stream=espn3mx parseUrl=1
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/q7P8tZPz/LIGA-Game-Placeholder-3.png" group-title="Live Events",Platense-Fluminense (4) (DLIVE)
+https://dlive.sx/embed/stream-372.php parseUrl=1
 
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/tgHmdL5H/EPL-Game-Placeholder.png" group-title="Live Events",LIVERPOOL-TOTTENHAM (7) (TVAPP1)
-https://tvapp1.com/watch/2594454 parseUrl=1
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/25s4qXs3/LIGA-Game-Placeholder-2.png" group-title="Live Events",Vasco-Santa Fe (W6)
+https://w6.sportsonliine.click/channels/hd/hd5.php parseUrl=1
 
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/tgHmdL5H/EPL-Game-Placeholder.png" group-title="Live Events",LIVERPOOL-TOTTENHAM (8) (FOXXY)
-https://foxxy.st/event/m-liverpool-vs-tottenham-hotspur-0915 parseUrl=1
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/25s4qXs3/LIGA-Game-Placeholder-2.png" group-title="Live Events",Vasco-Santa Fe (2) (TVF90)
+https://tvf90.com/canal.php?stream=espn parseUrl=1
 
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/tgHmdL5H/EPL-Game-Placeholder.png" group-title="Live Events",LIVERPOOL-TOTTENHAM (9) (GGSPORT)
-https://ggsport.live/match/liverpool-vs-tottenham-33999 parseUrl=1
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/25s4qXs3/LIGA-Game-Placeholder-2.png" group-title="Live Events",Vasco-Santa Fe (3) (HESGOAL)
+https://www.hesgoal.zone/sport-tv2/ parseUrl=1
 
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/tgHmdL5H/EPL-Game-Placeholder.png" group-title="Live Events",LIVERPOOL-TOTTENHAM (10) (24HSPORT)
-https://24hsport.tv/match/liverpool-vs-tottenham-33999 parseUrl=1
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/vH37BC1B/SERIE-A-Game-Placeholder.png" group-title="Live Events",FIORENTINA-PISA (W6)
-https://w6.sportsonliine.click/channels/hd/hd7.php parseUrl=1
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/vH37BC1B/SERIE-A-Game-Placeholder.png" group-title="Live Events",FIORENTINA-PISA (2) (TVF90)
-https://tvf90.com/3.php?stream=dsportsplus parseUrl=1
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/vH37BC1B/SERIE-A-Game-Placeholder.png" group-title="Live Events",FIORENTINA-PISA (3) (W6)
-https://w6.sportsonliine.click/channels/pt/sporttv4.php parseUrl=1
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/vH37BC1B/SERIE-A-Game-Placeholder.png" group-title="Live Events",FIORENTINA-PISA (4) (TVF90)
-https://tvf90.com/hd.php?stream=dsportsplus parseUrl=1
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/vH37BC1B/SERIE-A-Game-Placeholder.png" group-title="Live Events",FIORENTINA-PISA (5) (TVAPP1)
-https://tvapp1.com/watch/2579099 parseUrl=1
-
-#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/vH37BC1B/SERIE-A-Game-Placeholder.png" group-title="Live Events",FIORENTINA-PISA (6) (FOXXY)
-https://foxxy.st/event/ppv-fiorentina-vs-pisa/core/1 parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/9FKk04RK/EPL-Game-Placeholder.png" group-title="Live Events",WEST HAM UNITED-FULHAM (W6)
-https://w6.sportsonliine.click/channels/hd/hd8.php parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/9FKk04RK/EPL-Game-Placeholder.png" group-title="Live Events",WEST HAM UNITED-FULHAM (2) (TVAPP1)
-https://tvapp1.com/watch/2595204 parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/9FKk04RK/EPL-Game-Placeholder.png" group-title="Live Events",WEST HAM UNITED-FULHAM (3) (FOXXY)
-https://foxxy.st/event/m-west-ham-united-vs-fulham-0915 parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/9FKk04RK/EPL-Game-Placeholder.png" group-title="Live Events",WEST HAM UNITED-FULHAM (4) (GGSPORT)
-https://ggsport.live/match/west-ham-vs-fulham-34651 parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/9FKk04RK/EPL-Game-Placeholder.png" group-title="Live Events",WEST HAM UNITED-FULHAM (5) (24HSPORT)
-https://24hsport.tv/match/west-ham-vs-fulham-34651 parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/9FKk04RK/EPL-Game-Placeholder.png" group-title="Live Events",WEST HAM UNITED-FULHAM (6) (DLIVE)
-https://dlive.sx/watch.php?id=494 parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/9FKk04RK/EPL-Game-Placeholder.png" group-title="Live Events",WEST HAM UNITED-FULHAM (7) (DLIVE)
-https://dlive.sx/watch.php?id=15 parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/9FKk04RK/EPL-Game-Placeholder.png" group-title="Live Events",WEST HAM UNITED-FULHAM (8) (DLIVE)
-https://dlive.sx/watch.php?id=403 parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/GtS5ktMH/EPL-Game-Placeholder.png" group-title="Live Events",PETERBOROUGH UNITED-BARNSLEY (TVAPP1)
-https://tvapp1.com/watch/2594464 parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/GtS5ktMH/EPL-Game-Placeholder.png" group-title="Live Events",PETERBOROUGH UNITED-BARNSLEY (2) (FOXXY)
-https://foxxy.st/event/m-peterborough-united-vs-barnsley-0915 parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/GtS5ktMH/EPL-Game-Placeholder.png" group-title="Live Events",PETERBOROUGH UNITED-BARNSLEY (3) (GGSPORT)
-https://ggsport.live/match/peterborough-vs-barnsley-34019 parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/GtS5ktMH/EPL-Game-Placeholder.png" group-title="Live Events",PETERBOROUGH UNITED-BARNSLEY (4) (24HSPORT)
-https://24hsport.tv/match/peterborough-vs-barnsley-34019 parseUrl=1
-
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/GtS5ktMH/EPL-Game-Placeholder.png" group-title="Live Events",PETERBOROUGH UNITED-BARNSLEY (5) (DLIVE)
-https://dlive.sx/watch.php?id=495 parseUrl=1
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/25s4qXs3/LIGA-Game-Placeholder-2.png" group-title="Live Events",Vasco-Santa Fe (4) (DLIVE)
+https://dlive.sx/embed/stream-425.php parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/28GMXtG2/Basket-TV.png" group-title="Sports",Basket TV (DLHD)
 https://dlhd.pk/watch.php?id=404 parseUrl=1
