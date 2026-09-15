@@ -3,6 +3,105 @@
 #EXTINF:-1 iso-id="US" type-id="#006" tvg-logo="https://i.postimg.cc/Rh0c10DZ/MLB-Playlist.png" group-title="Live Events",MLB Playlist ⚾️ (MOVITV)
 https://movitv.pro/mlb.txt parseUrl=8
 
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/6qQdVQmq/EFL-Playlist.png" group-title="Live Events",EFL Playlist ⚽️ (MOVITV)
+https://movitv.pro/efl.txt parseUrl=8
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/NjGyzxxj/LIGA-Game-Placeholder-2.png" group-title="Live Events",Alaves-Valencia (FOXXY)
+https://foxxy.st/event/m-alaves-vs-valencia-0915/main/1 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/NjGyzxxj/LIGA-Game-Placeholder-2.png" group-title="Live Events",Alaves-Valencia (2) (W6)
+https://w6.sportsonliine.click/channels/hd/hd9.php parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/NjGyzxxj/LIGA-Game-Placeholder-2.png" group-title="Live Events",Alaves-Valencia (3) (TVF90)
+https://tvf90.com/3.php?stream=dsports2 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/NjGyzxxj/LIGA-Game-Placeholder-2.png" group-title="Live Events",Alaves-Valencia (4) (TVAPP1)
+https://tvapp1.com/watch/1570383 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/NjGyzxxj/LIGA-Game-Placeholder-2.png" group-title="Live Events",Alaves-Valencia (5) (HESGOAL)
+https://www.hesgoal.zone/hd-9/ parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/NjGyzxxj/LIGA-Game-Placeholder-2.png" group-title="Live Events",Alaves-Valencia (6) (24HSPORT)
+https://24hsport.tv/match/alaves-vs-valencia-30337 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/NjGyzxxj/LIGA-Game-Placeholder-2.png" group-title="Live Events",Alaves-Valencia (7) (FOXXY)
+https://foxxy.st/event/m-alaves-vs-valencia-0915/main/1 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/NjGyzxxj/LIGA-Game-Placeholder-2.png" group-title="Live Events",Alaves-Valencia (8) (STREAMSGATES)
+https://streamsgates.pk/watch.html?sport=football&id=deportivo-alav-s-vs-valencia-2506223 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/NjGyzxxj/LIGA-Game-Placeholder-2.png" group-title="Live Events",Alaves-Valencia (9) (DLIVE)
+https://dlive.sx/embed/stream-538.php parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/NjGyzxxj/LIGA-Game-Placeholder-2.png" group-title="Live Events",Alaves-Valencia (10) (DLIVE)
+https://dlive.sx/embed/stream-1023.php parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZ81Nvv1/LIGA-Game-Placeholder.png" group-title="Live Events",Rayo Vallecano-Espanyol (FOXXY)
+https://foxxy.st/event/m-rayo-vallecano-vs-espanyol-0915/main/1 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZ81Nvv1/LIGA-Game-Placeholder.png" group-title="Live Events",Rayo Vallecano-Espanyol (2) (W6)
+https://w6.sportsonliine.click/channels/hd/hd2.php parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZ81Nvv1/LIGA-Game-Placeholder.png" group-title="Live Events",Rayo Vallecano-Espanyol (3) (TVF90)
+https://tvf90.com/hd.php?stream=espn2 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZ81Nvv1/LIGA-Game-Placeholder.png" group-title="Live Events",Rayo Vallecano-Espanyol (4) (TVAPP1)
+https://tvapp1.com/watch/2506227 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZ81Nvv1/LIGA-Game-Placeholder.png" group-title="Live Events",Rayo Vallecano-Espanyol (5) (HESGOAL)
+https://www.hesgoal.zone/hd-2/ parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZ81Nvv1/LIGA-Game-Placeholder.png" group-title="Live Events",Rayo Vallecano-Espanyol (6) (24HSPORT)
+https://24hsport.tv/match/rayo-vallecano-vs-espanyol-30345 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZ81Nvv1/LIGA-Game-Placeholder.png" group-title="Live Events",Rayo Vallecano-Espanyol (7) (GGSPORT)
+https://ggsport.live/match/rayo-vallecano-vs-espanyol-30345 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZ81Nvv1/LIGA-Game-Placeholder.png" group-title="Live Events",Rayo Vallecano-Espanyol (8) (FOXXY)
+https://foxxy.st/event/m-rayo-vallecano-vs-espanyol-0915/main/1 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZ81Nvv1/LIGA-Game-Placeholder.png" group-title="Live Events",Rayo Vallecano-Espanyol (9) (STREAMSGATES)
+https://streamsgates.pk/watch.html?sport=football&id=rayo-vallecano-vs-espanyol-2506227 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/vZ81Nvv1/LIGA-Game-Placeholder.png" group-title="Live Events",Rayo Vallecano-Espanyol (10) (DLIVE)
+https://dlive.sx/embed/stream-84.php parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/4dVbxdc9/SERIE-A-Game-Placeholder.png" group-title="Live Events",GENOA-SUDTIROL (W6)
+https://w6.sportsonliine.click/channels/hd/hd7.php parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/4dVbxdc9/SERIE-A-Game-Placeholder.png" group-title="Live Events",GENOA-SUDTIROL (2) (TVF90)
+https://tvf90.com/3.php?stream=dsportsplus parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/4dVbxdc9/SERIE-A-Game-Placeholder.png" group-title="Live Events",GENOA-SUDTIROL (3) (W6)
+https://w6.sportsonliine.click/channels/pt/sporttv2.php parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/4dVbxdc9/SERIE-A-Game-Placeholder.png" group-title="Live Events",GENOA-SUDTIROL (4) (TVF90)
+https://tvf90.com/hd.php?stream=dsportsplus parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/4dVbxdc9/SERIE-A-Game-Placeholder.png" group-title="Live Events",GENOA-SUDTIROL (5) (TVAPP1)
+https://tvapp1.com/watch/ppv-genoa-vs-sudtirol parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/4dVbxdc9/SERIE-A-Game-Placeholder.png" group-title="Live Events",GENOA-SUDTIROL (6) (FOXXY)
+https://foxxy.st/event/ppv-genoa-vs-sudtirol/core/1 parseUrl=1
+
+#EXTINF:-1 iso-id="SA" type-id="#001" tvg-logo="https://i.postimg.cc/SKttMJJx/SAUDI-Game-Placeholder.png" group-title="Live Events",AL AIN-AL NASSR (W6)
+https://w6.sportsonliine.click/channels/hd/hd10.php parseUrl=1
+
+#EXTINF:-1 iso-id="SA" type-id="#001" tvg-logo="https://i.postimg.cc/SKttMJJx/SAUDI-Game-Placeholder.png" group-title="Live Events",AL AIN-AL NASSR (2) (TVF90)
+https://tvf90.com/1.php?stream=espnmx parseUrl=1
+
+#EXTINF:-1 iso-id="SA" type-id="#001" tvg-logo="https://i.postimg.cc/SKttMJJx/SAUDI-Game-Placeholder.png" group-title="Live Events",AL AIN-AL NASSR (3) (W6)
+https://w6.sportsonliine.click/channels/bra/br6.php parseUrl=1
+
+#EXTINF:-1 iso-id="SA" type-id="#001" tvg-logo="https://i.postimg.cc/SKttMJJx/SAUDI-Game-Placeholder.png" group-title="Live Events",AL AIN-AL NASSR (4) (TVF90)
+https://tvf90.com/canal.php?stream=espnmx parseUrl=1
+
+#EXTINF:-1 iso-id="SA" type-id="#001" tvg-logo="https://i.postimg.cc/SKttMJJx/SAUDI-Game-Placeholder.png" group-title="Live Events",AL AIN-AL NASSR (5) (BESTROPES)
+https://bestropes.st/player.php/al-ain-vs-al-nassr-asia-afc-champions-league-elite-football parseUrl=1
+
+#EXTINF:-1 iso-id="SA" type-id="#001" tvg-logo="https://i.postimg.cc/SKttMJJx/SAUDI-Game-Placeholder.png" group-title="Live Events",AL AIN-AL NASSR (6) (DLIVE)
+https://dlive.sx/watch.php?id=379 parseUrl=1
+
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/28GMXtG2/Basket-TV.png" group-title="Sports",Basket TV (DLHD)
 https://dlhd.pk/watch.php?id=404 parseUrl=1
 
