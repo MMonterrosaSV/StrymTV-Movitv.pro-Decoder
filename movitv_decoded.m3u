@@ -165,6 +165,12 @@ https://dlhd.pk/watch.php?id=52 parseUrl=1
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/bYRztfXB/CBS.png" group-title="Entertainment",CBS (2) (FOXTREND)
 https://foxtrend.gd/live-tv?ch=ch-cbs parseUrl=2
 
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/jvprvM6m/Bravo.png" group-title="Entertainment",Bravo (DLHD)
+https://dlhd.pk/watch.php?id=307 parseUrl=1
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/jvprvM6m/Bravo.png" group-title="Entertainment",Bravo (2) (FOXXY)
+https://foxxy.st/live-tv/bravo parseUrl=1
+
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/BHzDrX61/HBO.png" group-title="Entertainment",HBO (DLHD)
 https://dlhd.pk/watch.php?id=321 parseUrl=1
 
