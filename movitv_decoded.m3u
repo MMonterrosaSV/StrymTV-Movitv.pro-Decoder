@@ -3,28 +3,16 @@
 #EXTINF:-1 iso-id="US" type-id="#006" tvg-logo="https://i.postimg.cc/Rh0c10DZ/MLB-Playlist.png" group-title="Live Events",MLB Playlist ⚾️ (MOVITV)
 https://movitv.pro/mlb.txt parseUrl=8
 
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/q7P8tZPz/LIGA-Game-Placeholder-3.png" group-title="Live Events",Platense-Fluminense (W6)
-https://w6.sportsonliine.click/channels/pt/sporttv1.php parseUrl=1
-
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/q7P8tZPz/LIGA-Game-Placeholder-3.png" group-title="Live Events",Platense-Fluminense (2) (TVF90)
-https://tvf90.com/hd.php?stream=espn2 parseUrl=1
-
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/q7P8tZPz/LIGA-Game-Placeholder-3.png" group-title="Live Events",Platense-Fluminense (3) (HESGOAL)
-https://www.hesgoal.zone/sport-tv1/ parseUrl=1
-
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/q7P8tZPz/LIGA-Game-Placeholder-3.png" group-title="Live Events",Platense-Fluminense (4) (DLIVE)
-https://dlive.sx/embed/stream-372.php parseUrl=1
-
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/25s4qXs3/LIGA-Game-Placeholder-2.png" group-title="Live Events",Vasco-Santa Fe (W6)
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/wBChtbCM/LIGA-Game-Placeholder.png" group-title="Live Events",Sao Paulo-Boca Juniors (W6)
 https://w6.sportsonliine.click/channels/hd/hd5.php parseUrl=1
 
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/25s4qXs3/LIGA-Game-Placeholder-2.png" group-title="Live Events",Vasco-Santa Fe (2) (TVF90)
-https://tvf90.com/canal.php?stream=espn parseUrl=1
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/wBChtbCM/LIGA-Game-Placeholder.png" group-title="Live Events",Sao Paulo-Boca Juniors (2) (TVF90)
+https://tvf90.com/1.php?stream=dsports parseUrl=1
 
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/25s4qXs3/LIGA-Game-Placeholder-2.png" group-title="Live Events",Vasco-Santa Fe (3) (HESGOAL)
-https://www.hesgoal.zone/sport-tv2/ parseUrl=1
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/wBChtbCM/LIGA-Game-Placeholder.png" group-title="Live Events",Sao Paulo-Boca Juniors (3) (HESGOAL)
+https://www.hesgoal.zone/hd-5/ parseUrl=1
 
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/25s4qXs3/LIGA-Game-Placeholder-2.png" group-title="Live Events",Vasco-Santa Fe (4) (DLIVE)
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/wBChtbCM/LIGA-Game-Placeholder.png" group-title="Live Events",Sao Paulo-Boca Juniors (4) (DLIVE)
 https://dlive.sx/embed/stream-425.php parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/28GMXtG2/Basket-TV.png" group-title="Sports",Basket TV (DLHD)
