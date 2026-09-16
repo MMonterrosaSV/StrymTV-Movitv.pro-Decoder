@@ -3,17 +3,89 @@
 #EXTINF:-1 iso-id="US" type-id="#006" tvg-logo="https://i.postimg.cc/Rh0c10DZ/MLB-Playlist.png" group-title="Live Events",MLB Playlist ⚾️ (MOVITV)
 https://movitv.pro/mlb.txt parseUrl=8
 
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/wBChtbCM/LIGA-Game-Placeholder.png" group-title="Live Events",Sao Paulo-Boca Juniors (W6)
-https://w6.sportsonliine.click/channels/hd/hd5.php parseUrl=1
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/SRmv41dp/LIGA-Game-Placeholder-2.png" group-title="Live Events",Atletico Madrid-Osasuna (FOXXY)
+https://foxxy.st/event/m-atletico-madrid-vs-osasuna-0916/main/1 parseUrl=2
 
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/wBChtbCM/LIGA-Game-Placeholder.png" group-title="Live Events",Sao Paulo-Boca Juniors (2) (TVF90)
-https://tvf90.com/1.php?stream=dsports parseUrl=1
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/SRmv41dp/LIGA-Game-Placeholder-2.png" group-title="Live Events",Atletico Madrid-Osasuna (2) (W6)
+https://w6.sportsonliine.click/channels/hd/hd6.php parseUrl=2
 
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/wBChtbCM/LIGA-Game-Placeholder.png" group-title="Live Events",Sao Paulo-Boca Juniors (3) (HESGOAL)
-https://www.hesgoal.zone/hd-5/ parseUrl=1
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/SRmv41dp/LIGA-Game-Placeholder-2.png" group-title="Live Events",Atletico Madrid-Osasuna (3) (TVF90)
+https://tvf90.com/canal.php?stream=espn parseUrl=2
 
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/wBChtbCM/LIGA-Game-Placeholder.png" group-title="Live Events",Sao Paulo-Boca Juniors (4) (DLIVE)
-https://dlive.sx/embed/stream-425.php parseUrl=1
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/SRmv41dp/LIGA-Game-Placeholder-2.png" group-title="Live Events",Atletico Madrid-Osasuna (4) (TVAPP1)
+https://tvapp1.com/watch/2506220 parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/SRmv41dp/LIGA-Game-Placeholder-2.png" group-title="Live Events",Atletico Madrid-Osasuna (5) (HESGOAL)
+https://www.hesgoal.zone/hd-5/ parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/SRmv41dp/LIGA-Game-Placeholder-2.png" group-title="Live Events",Atletico Madrid-Osasuna (6) (24HSPORT)
+https://24hsport.tv/match/atletico-madrid-vs-osasuna-30331 parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/SRmv41dp/LIGA-Game-Placeholder-2.png" group-title="Live Events",Atletico Madrid-Osasuna (7) (FOXXY)
+https://foxxy.st/event/m-atletico-madrid-vs-osasuna-0916/main/1 parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/SRmv41dp/LIGA-Game-Placeholder-2.png" group-title="Live Events",Atletico Madrid-Osasuna (8) (STREAMSGATES)
+https://streamsgates.pk/watch.html?sport=football&id=ppv-atl-tico-madrid-vs-osasuna parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/SRmv41dp/LIGA-Game-Placeholder-2.png" group-title="Live Events",Atletico Madrid-Osasuna (9) (DLIVE)
+https://dlive.sx/embed/stream-84.php parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/SRmv41dp/LIGA-Game-Placeholder-2.png" group-title="Live Events",Atletico Madrid-Osasuna (10) (DLIVE)
+https://dlive.sx/embed/stream-451.php parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/SRKfVBVr/LIGA-Game-Placeholder.png" group-title="Live Events",Deportivo-Sevilla (FOXXY)
+https://foxxy.st/event/m-deportivo-vs-sevilla-0916/main/1 parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/SRKfVBVr/LIGA-Game-Placeholder.png" group-title="Live Events",Deportivo-Sevilla (2) (W6)
+https://w6.sportsonliine.click/channels/hd/hd10.php parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/SRKfVBVr/LIGA-Game-Placeholder.png" group-title="Live Events",Deportivo-Sevilla (3) (TVF90)
+https://tvf90.com/1.php?stream=espn4 parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/SRKfVBVr/LIGA-Game-Placeholder.png" group-title="Live Events",Deportivo-Sevilla (4) (TVAPP1)
+https://tvapp1.com/watch/2506225 parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/SRKfVBVr/LIGA-Game-Placeholder.png" group-title="Live Events",Deportivo-Sevilla (5) (HESGOAL)
+https://www.hesgoal.zone/hd-10/ parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/SRKfVBVr/LIGA-Game-Placeholder.png" group-title="Live Events",Deportivo-Sevilla (6) (24HSPORT)
+https://24hsport.tv/match/deportivo-la-coruna-vs-sevilla-30341 parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/SRKfVBVr/LIGA-Game-Placeholder.png" group-title="Live Events",Deportivo-Sevilla (7) (FOXXY)
+https://foxxy.st/event/m-deportivo-vs-sevilla-0916/main/1 parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/SRKfVBVr/LIGA-Game-Placeholder.png" group-title="Live Events",Deportivo-Sevilla (8) (STREAMSGATES)
+https://streamsgates.pk/watch.html?sport=football&id=deportivo-de-a-coru-a-vs-sevilla-2506225 parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/SRKfVBVr/LIGA-Game-Placeholder.png" group-title="Live Events",Deportivo-Sevilla (9) (DLIVE)
+https://dlive.sx/embed/stream-1.php parseUrl=2
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/SRKfVBVr/LIGA-Game-Placeholder.png" group-title="Live Events",Deportivo-Sevilla (10) (DLIVE)
+https://dlive.sx/embed/stream-458.php parseUrl=2
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/9mVLSYzN/UEL-Game-Placeholder.png" group-title="Live Events",OMONIA NICOSIA-CELTA VIGO (W6)
+https://w6.sportsonliine.click/channels/hd/hd4.php parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/9mVLSYzN/UEL-Game-Placeholder.png" group-title="Live Events",OMONIA NICOSIA-CELTA VIGO (2) (TVF90)
+https://tvf90.com/1.php?stream=espn2 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/9mVLSYzN/UEL-Game-Placeholder.png" group-title="Live Events",OMONIA NICOSIA-CELTA VIGO (3) (W6)
+https://w6.sportsonliine.click/channels/hd/hd11.php parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/9mVLSYzN/UEL-Game-Placeholder.png" group-title="Live Events",OMONIA NICOSIA-CELTA VIGO (4) (TVF90)
+https://tvf90.com/3.php?stream=tudn parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/9mVLSYzN/UEL-Game-Placeholder.png" group-title="Live Events",OMONIA NICOSIA-CELTA VIGO (5) (W6)
+https://w6.sportsonliine.click/channels/pt/eleven2.php parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/9mVLSYzN/UEL-Game-Placeholder.png" group-title="Live Events",OMONIA NICOSIA-CELTA VIGO (6) (TVAPP1)
+https://tvapp1.com/watch/2594942 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/9mVLSYzN/UEL-Game-Placeholder.png" group-title="Live Events",OMONIA NICOSIA-CELTA VIGO (7) (TVF90)
+https://tvf90.com/1.php?stream=espnmx parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/9mVLSYzN/UEL-Game-Placeholder.png" group-title="Live Events",OMONIA NICOSIA-CELTA VIGO (8) (FOXXY)
+https://foxxy.st/event/m-omonia-nicosia-vs-celta-vigo-0916/main/1 parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/28GMXtG2/Basket-TV.png" group-title="Sports",Basket TV (DLHD)
 https://dlhd.pk/watch.php?id=404 parseUrl=1
