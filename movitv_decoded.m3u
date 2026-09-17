@@ -3,17 +3,77 @@
 #EXTINF:-1 iso-id="US" type-id="#006" tvg-logo="https://i.postimg.cc/Rh0c10DZ/MLB-Playlist.png" group-title="Live Events",MLB Playlist ⚾️ (MOVITV)
 https://movitv.pro/mlb.txt parseUrl=8
 
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/X7s1d8js/LIGA-Game-Placeholder-6.png" group-title="Live Events",Corinthians-Estudiantes (W6)
-https://w6.sportsonliine.click/channels/hd/hd5.php parseUrl=2
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/jdBkyfy9/LIGA-Game-Placeholder.png" group-title="Live Events",Real Betis-Getafe (FOXXY)
+https://foxxy.st/event/m-real-betis-vs-getafe-0917/main/1 parseUrl=1
 
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/X7s1d8js/LIGA-Game-Placeholder-6.png" group-title="Live Events",Corinthians-Estudiantes (2) (TVF90)
-https://tvf90.com/canal.php?stream=espn parseUrl=2
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/jdBkyfy9/LIGA-Game-Placeholder.png" group-title="Live Events",Real Betis-Getafe (2) (W6)
+https://w6.sportsonliine.click/channels/hd/hd6.php parseUrl=1
 
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/X7s1d8js/LIGA-Game-Placeholder-6.png" group-title="Live Events",Corinthians-Estudiantes (3) (HESGOAL)
-https://www.hesgoal.zone/sport-tv1/ parseUrl=2
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/jdBkyfy9/LIGA-Game-Placeholder.png" group-title="Live Events",Real Betis-Getafe (3) (TV-90)
+https://tv-90.com/dsportsar.php parseUrl=1
 
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/X7s1d8js/LIGA-Game-Placeholder-6.png" group-title="Live Events",Corinthians-Estudiantes (4) (DLIVE)
-https://dlive.sx/embed/stream-425.php parseUrl=1
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/jdBkyfy9/LIGA-Game-Placeholder.png" group-title="Live Events",Real Betis-Getafe (4) (TVAPP1)
+https://tvapp1.com/watch/2506224 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/jdBkyfy9/LIGA-Game-Placeholder.png" group-title="Live Events",Real Betis-Getafe (5) (HESGOAL)
+https://www.hesgoal.zone/hd-6/ parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/jdBkyfy9/LIGA-Game-Placeholder.png" group-title="Live Events",Real Betis-Getafe (6) (24HSPORT)
+https://24hsport.tv/match/real-betis-vs-getafe-30339 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/jdBkyfy9/LIGA-Game-Placeholder.png" group-title="Live Events",Real Betis-Getafe (7) (GGSPORT)
+https://ggsport.live/match/real-betis-vs-getafe-30339 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/jdBkyfy9/LIGA-Game-Placeholder.png" group-title="Live Events",Real Betis-Getafe (8) (FOXXY)
+https://foxxy.st/event/m-real-betis-vs-getafe-0917/main/1 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/jdBkyfy9/LIGA-Game-Placeholder.png" group-title="Live Events",Real Betis-Getafe (9) (STREAMSGATES)
+https://streamsgates.pk/watch.html?sport=football&id=ppv-real-betis-vs-getafe parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/jdBkyfy9/LIGA-Game-Placeholder.png" group-title="Live Events",Real Betis-Getafe (10) (DLIVE)
+https://dlive.sx/embed/stream-538.php parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/qMSB6yzd/UEL-Game-Placeholder.png" group-title="Live Events",LEVSKI SOFIA-RED BULL SALZBURG (W6)
+https://w6.sportsonliine.click/channels/hd/hd11.php parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/qMSB6yzd/UEL-Game-Placeholder.png" group-title="Live Events",LEVSKI SOFIA-RED BULL SALZBURG (2) (TVF90)
+https://tvf90.com/1.php?stream=espn3 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/qMSB6yzd/UEL-Game-Placeholder.png" group-title="Live Events",LEVSKI SOFIA-RED BULL SALZBURG (3) (W6)
+https://w6.sportsonliine.click/channels/hd/hd4.php parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/qMSB6yzd/UEL-Game-Placeholder.png" group-title="Live Events",LEVSKI SOFIA-RED BULL SALZBURG (4) (TVF90)
+https://tvf90.com/3.php?stream=espn3 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/qMSB6yzd/UEL-Game-Placeholder.png" group-title="Live Events",LEVSKI SOFIA-RED BULL SALZBURG (5) (W6)
+https://w6.sportsonliine.click/channels/hd/hd7.php parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/qMSB6yzd/UEL-Game-Placeholder.png" group-title="Live Events",LEVSKI SOFIA-RED BULL SALZBURG (6) (TVF90)
+https://tvf90.com/3.php?stream=tudn parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/qMSB6yzd/UEL-Game-Placeholder.png" group-title="Live Events",LEVSKI SOFIA-RED BULL SALZBURG (7) (W6)
+https://w6.sportsonliine.click/channels/pt/eleven2.php parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/qMSB6yzd/UEL-Game-Placeholder.png" group-title="Live Events",LEVSKI SOFIA-RED BULL SALZBURG (8) (TVAPP1)
+https://tvapp1.com/watch/2594923 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/Gf2rGKtY/UEL-Game-Placeholder.png" group-title="Live Events",OFI-1899 HOFFENHEIM (W6)
+https://w6.sportsonliine.click/channels/hd/hd3.php parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/Gf2rGKtY/UEL-Game-Placeholder.png" group-title="Live Events",OFI-1899 HOFFENHEIM (2) (TVF90)
+https://tvf90.com/1.php?stream=espn4 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/Gf2rGKtY/UEL-Game-Placeholder.png" group-title="Live Events",OFI-1899 HOFFENHEIM (3) (W6)
+https://w6.sportsonliine.click/channels/pt/eleven3.php parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/Gf2rGKtY/UEL-Game-Placeholder.png" group-title="Live Events",OFI-1899 HOFFENHEIM (4) (TVF90)
+https://tvf90.com/3.php?stream=espn4 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/Gf2rGKtY/UEL-Game-Placeholder.png" group-title="Live Events",OFI-1899 HOFFENHEIM (5) (TVAPP1)
+https://tvapp1.com/watch/2594932 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/Gf2rGKtY/UEL-Game-Placeholder.png" group-title="Live Events",OFI-1899 HOFFENHEIM (6) (GGSPORT)
+https://ggsport.live/match/ofi-vs-1899-hoffenheim-34603 parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/28GMXtG2/Basket-TV.png" group-title="Sports",Basket TV (DLHD)
 https://dlhd.pk/watch.php?id=404 parseUrl=1
