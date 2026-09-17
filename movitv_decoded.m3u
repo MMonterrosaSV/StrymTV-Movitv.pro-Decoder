@@ -3,6 +3,156 @@
 #EXTINF:-1 iso-id="US" type-id="#006" tvg-logo="https://i.postimg.cc/Rh0c10DZ/MLB-Playlist.png" group-title="Live Events",MLB Playlist ⚾️ (MOVITV)
 https://movitv.pro/mlb.txt parseUrl=8
 
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/HTSPrTkp/UEL-Game-Placeholder.png" group-title="Live Events",CRYSTAL PALACE-LECH POZNAN (W6)
+https://w6.sportsonliine.click/channels/hd/hd2.php parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/HTSPrTkp/UEL-Game-Placeholder.png" group-title="Live Events",CRYSTAL PALACE-LECH POZNAN (2) (TVF90)
+https://tvf90.com/3.php?stream=espn2 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/HTSPrTkp/UEL-Game-Placeholder.png" group-title="Live Events",CRYSTAL PALACE-LECH POZNAN (3) (TVAPP1)
+https://tvapp1.com/watch/2594817 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/HTSPrTkp/UEL-Game-Placeholder.png" group-title="Live Events",CRYSTAL PALACE-LECH POZNAN (4) (TVF90)
+https://tvf90.com/1.php?stream=disney6 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/HTSPrTkp/UEL-Game-Placeholder.png" group-title="Live Events",CRYSTAL PALACE-LECH POZNAN (5) (GGSPORT)
+https://ggsport.live/match/crystal-palace-vs-lech-poznan-34373 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/HTSPrTkp/UEL-Game-Placeholder.png" group-title="Live Events",CRYSTAL PALACE-LECH POZNAN (6) (24HSPORT)
+https://24hsport.tv/match/crystal-palace-vs-lech-poznan-34373 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/7NVBwH9f/UEL-Game-Placeholder.png" group-title="Live Events",JUVENTUS-NEC (W6)
+https://w6.sportsonliine.click/channels/hd/hd7.php parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/7NVBwH9f/UEL-Game-Placeholder.png" group-title="Live Events",JUVENTUS-NEC (2) (TVF90)
+https://tvf90.com/canal.php?stream=espn parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/7NVBwH9f/UEL-Game-Placeholder.png" group-title="Live Events",JUVENTUS-NEC (3) (W6)
+https://w6.sportsonliine.click/channels/bra/br5.php parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/7NVBwH9f/UEL-Game-Placeholder.png" group-title="Live Events",JUVENTUS-NEC (4) (TVF90)
+https://tvf90.com/3.php?stream=espn parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/7NVBwH9f/UEL-Game-Placeholder.png" group-title="Live Events",JUVENTUS-NEC (5) (TVAPP1)
+https://tvapp1.com/watch/2594873 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/7NVBwH9f/UEL-Game-Placeholder.png" group-title="Live Events",JUVENTUS-NEC (6) (TVF90)
+https://tvf90.com/3.php?stream=tudn parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/7NVBwH9f/UEL-Game-Placeholder.png" group-title="Live Events",JUVENTUS-NEC (7) (GGSPORT)
+https://ggsport.live/match/juventus-vs-nec-nijmegen-34485 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/7NVBwH9f/UEL-Game-Placeholder.png" group-title="Live Events",JUVENTUS-NEC (8) (TVF90)
+https://tvf90.com/1.php?stream=unimas parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/7NVBwH9f/UEL-Game-Placeholder.png" group-title="Live Events",JUVENTUS-NEC (9) (24HSPORT)
+https://24hsport.tv/match/juventus-vs-nec-nijmegen-34485 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/7NVBwH9f/UEL-Game-Placeholder.png" group-title="Live Events",JUVENTUS-NEC (10) (DLIVE)
+https://dlive.sx/watch.php?id=34 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/sv02XNr4/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER CITY-NORWICH CITY (W6)
+https://w6.sportsonliine.click/channels/hd/hd1.php parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/sv02XNr4/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER CITY-NORWICH CITY (2) (TVF90)
+https://tvf90.com/1.php?stream=disney4 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/sv02XNr4/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER CITY-NORWICH CITY (3) (W6)
+https://w6.sportsonliine.click/channels/pt/sporttv1.php parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/sv02XNr4/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER CITY-NORWICH CITY (4) (TVF90)
+https://tvf90.com/1.php?stream=paramount1 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/sv02XNr4/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER CITY-NORWICH CITY (5) (W6)
+https://w6.sportsonliine.click/channels/bra/br2.php parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/sv02XNr4/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER CITY-NORWICH CITY (6) (TVAPP1)
+https://tvapp1.com/watch/2594456 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/sv02XNr4/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER CITY-NORWICH CITY (7) (FOXXY)
+https://foxxy.st/event/m-manchester-city-vs-norwich-city-0917 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/sv02XNr4/EPL-Game-Placeholder.png" group-title="Live Events",MANCHESTER CITY-NORWICH CITY (8) (GGSPORT)
+https://ggsport.live/match/manchester-city-vs-norwich-34003 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/201b8QbX/LIGA-Game-Placeholder-3.png" group-title="Live Events",Real Sociedad-Bournemouth (FOXXY)
+https://foxxy.st/event/m-real-sociedad-vs-afc-bournemouth-0917 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/201b8QbX/LIGA-Game-Placeholder-3.png" group-title="Live Events",Real Sociedad-Bournemouth (2) (W6)
+https://w6.sportsonliine.click/channels/hd/hd11.php parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/201b8QbX/LIGA-Game-Placeholder-3.png" group-title="Live Events",Real Sociedad-Bournemouth (3) (TVF90)
+https://tvf90.com/1.php?stream=espn7 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/201b8QbX/LIGA-Game-Placeholder-3.png" group-title="Live Events",Real Sociedad-Bournemouth (4) (TVAPP1)
+https://tvapp1.com/watch/2594880 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/201b8QbX/LIGA-Game-Placeholder-3.png" group-title="Live Events",Real Sociedad-Bournemouth (5) (HESGOAL)
+https://www.hesgoal.zone/watch/hd-11.htm parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/201b8QbX/LIGA-Game-Placeholder-3.png" group-title="Live Events",Real Sociedad-Bournemouth (6) (24HSPORT)
+https://24hsport.tv/match/real-sociedad-vs-bournemouth-34499 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/201b8QbX/LIGA-Game-Placeholder-3.png" group-title="Live Events",Real Sociedad-Bournemouth (7) (GGSPORT)
+https://ggsport.live/match/real-sociedad-vs-bournemouth-34499 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/201b8QbX/LIGA-Game-Placeholder-3.png" group-title="Live Events",Real Sociedad-Bournemouth (8) (FOXXY)
+https://foxxy.st/event/m-real-sociedad-vs-afc-bournemouth-0917 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/201b8QbX/LIGA-Game-Placeholder-3.png" group-title="Live Events",Real Sociedad-Bournemouth (9) (STREAMSGATES)
+https://streamsgates.pk/watch.html?sport=football&id=real-sociedad-vs-bournemouth-2594880 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/201b8QbX/LIGA-Game-Placeholder-3.png" group-title="Live Events",Real Sociedad-Bournemouth (10) (DLIVE)
+https://dlive.sx/embed/stream-76.php parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/4wRzXjVy/LIGA-Game-Placeholder-2.png" group-title="Live Events",Besiktas-Marseille (FOXXY)
+https://foxxy.st/event/m-besiktas-vs-marseille-0917 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/4wRzXjVy/LIGA-Game-Placeholder-2.png" group-title="Live Events",Besiktas-Marseille (2) (W6)
+https://w6.sportsonliine.click/channels/hd/hd4.php parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/4wRzXjVy/LIGA-Game-Placeholder-2.png" group-title="Live Events",Besiktas-Marseille (3) (TVF90)
+https://tvf90.com/1.php?stream=espn3 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/4wRzXjVy/LIGA-Game-Placeholder-2.png" group-title="Live Events",Besiktas-Marseille (4) (TVAPP1)
+https://tvapp1.com/watch/2594885 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/4wRzXjVy/LIGA-Game-Placeholder-2.png" group-title="Live Events",Besiktas-Marseille (5) (HESGOAL)
+https://www.hesgoal.zone/hd-4/ parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/4wRzXjVy/LIGA-Game-Placeholder-2.png" group-title="Live Events",Besiktas-Marseille (6) (FOXXY)
+https://foxxy.st/event/m-besiktas-vs-marseille-0917 parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/4wRzXjVy/LIGA-Game-Placeholder-2.png" group-title="Live Events",Besiktas-Marseille (7) (STREAMSGATES)
+https://streamsgates.pk/watch.html?sport=football&id=ppv-besiktas-vs-marseille parseUrl=1
+
+#EXTINF:-1 iso-id="EU" type-id="#001" tvg-logo="https://i.ibb.co/4wRzXjVy/LIGA-Game-Placeholder-2.png" group-title="Live Events",Besiktas-Marseille (8) (DLIVE)
+https://dlive.sx/embed/stream-107.php parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/Q3Yj5Wd4/LIGA-Game-Placeholder.png" group-title="Live Events",Malaga-Villarreal (FOXXY)
+https://foxxy.st/event/m-malaga-vs-villarreal-0917 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/Q3Yj5Wd4/LIGA-Game-Placeholder.png" group-title="Live Events",Malaga-Villarreal (2) (W6)
+https://w6.sportsonliine.click/channels/hd/hd6.php parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/Q3Yj5Wd4/LIGA-Game-Placeholder.png" group-title="Live Events",Malaga-Villarreal (3) (TVF90)
+https://tvf90.com/1.php?stream=espn4 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/Q3Yj5Wd4/LIGA-Game-Placeholder.png" group-title="Live Events",Malaga-Villarreal (4) (TVAPP1)
+https://tvapp1.com/watch/2506221 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/Q3Yj5Wd4/LIGA-Game-Placeholder.png" group-title="Live Events",Malaga-Villarreal (5) (HESGOAL)
+https://www.hesgoal.zone/hd-6/ parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/Q3Yj5Wd4/LIGA-Game-Placeholder.png" group-title="Live Events",Malaga-Villarreal (6) (FOXXY)
+https://foxxy.st/event/m-malaga-vs-villarreal-0917 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/Q3Yj5Wd4/LIGA-Game-Placeholder.png" group-title="Live Events",Malaga-Villarreal (7) (STREAMSGATES)
+https://streamsgates.pk/watch.html?sport=football&id=ppv-m-laga-vs-villarreal parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/Q3Yj5Wd4/LIGA-Game-Placeholder.png" group-title="Live Events",Malaga-Villarreal (8) (DLIVE)
+https://dlive.sx/embed/stream-538.php parseUrl=1
+
 #EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/jdBkyfy9/LIGA-Game-Placeholder.png" group-title="Live Events",Real Betis-Getafe (FOXXY)
 https://foxxy.st/event/m-real-betis-vs-getafe-0917/main/1 parseUrl=1
 
