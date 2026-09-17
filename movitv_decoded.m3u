@@ -153,6 +153,36 @@ https://foxxy.st/live-tv/mlb-network parseUrl=1
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.ibb.co/RG35b2H6/MLB-Network.png" group-title="Sports",MLB Network (3) (STREAMSPORTS99)
 https://streamsports99.su/live-tv/MLB%20Network__us parseUrl=1
 
+#EXTINF:-1 iso-id="PT" tvg-logo="https://i.ibb.co/6JvGyZxJ/Sport-TV-1.png" group-title="Sports",Sport TV 1 (DLHD)
+https://dlhd.pk/watch.php?id=49 parseUrl=1
+
+#EXTINF:-1 iso-id="PT" tvg-logo="https://i.ibb.co/6JvGyZxJ/Sport-TV-1.png" group-title="Sports",Sport TV 1 (2) (FOXXY)
+https://foxxy.st/live-tv/sport-tv1 parseUrl=1
+
+#EXTINF:-1 iso-id="PT" tvg-logo="https://i.ibb.co/Y7CKwxH6/Sport-TV-2.png" group-title="Sports",Sport TV 2 (DLHD)
+https://dlhd.pk/watch.php?id=74 parseUrl=1
+
+#EXTINF:-1 iso-id="PT" tvg-logo="https://i.ibb.co/Y7CKwxH6/Sport-TV-2.png" group-title="Sports",Sport TV 2 (2) (FOXXY)
+https://foxxy.st/live-tv/sport-tv2 parseUrl=1
+
+#EXTINF:-1 iso-id="PT" tvg-logo="https://i.ibb.co/jkS51Dbg/Sport-TV-3.png" group-title="Sports",Sport TV 3 (DLHD)
+https://dlhd.pk/player/stream-454.php__Ref:"https://dlhd.pk/"parseUrl=1
+
+#EXTINF:-1 iso-id="PT" tvg-logo="https://i.ibb.co/jkS51Dbg/Sport-TV-3.png" group-title="Sports",Sport TV 3 (2) (FOXXY)
+https://foxxy.st/live-tv/sport-tv3 parseUrl=1
+
+#EXTINF:-1 iso-id="PT" tvg-logo="https://i.ibb.co/rGwR6FBN/Sport-TV-4.png" group-title="Sports",Sport TV 4 (DLHD)
+https://dlhd.pk/watch.php?id=289 parseUrl=1
+
+#EXTINF:-1 iso-id="PT" tvg-logo="https://i.ibb.co/rGwR6FBN/Sport-TV-4.png" group-title="Sports",Sport TV 4 (2) (FOXXY)
+https://foxxy.st/live-tv/sport-tv4 parseUrl=1
+
+#EXTINF:-1 iso-id="PT" tvg-logo="https://i.ibb.co/PXpJCx0/Sport-TV-5.png" group-title="Sports",Sport TV 5 (DLHD)
+https://dlhd.pk/watch.php?id=290 parseUrl=1
+
+#EXTINF:-1 iso-id="PT" tvg-logo="https://i.ibb.co/PXpJCx0/Sport-TV-5.png" group-title="Sports",Sport TV 5 (2) (FOXXY)
+https://foxxy.st/live-tv/sport-tv5 parseUrl=1
+
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/TPLs13xw/Tennis-Channel.png" group-title="Sports",Tennis Channel (DLHD)
 https://dlhd.pk/watch.php?id=40 parseUrl=1
 
