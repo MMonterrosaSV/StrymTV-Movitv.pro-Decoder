@@ -3,107 +3,17 @@
 #EXTINF:-1 iso-id="US" type-id="#006" tvg-logo="https://i.postimg.cc/Rh0c10DZ/MLB-Playlist.png" group-title="Live Events",MLB Playlist ⚾️ (MOVITV)
 https://movitv.pro/mlb.txt parseUrl=8
 
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/dtsShXYD/LIGA-Game-Placeholder-5.png" group-title="Live Events",LDU-Palmeiras (W6)
-https://w6.sportsonliine.click/channels/pt/sporttv1.php parseUrl=2
-
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/dtsShXYD/LIGA-Game-Placeholder-5.png" group-title="Live Events",LDU-Palmeiras (2) (TVF90)
-https://tvf90.com/canal.php?stream=espn parseUrl=2
-
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/dtsShXYD/LIGA-Game-Placeholder-5.png" group-title="Live Events",LDU-Palmeiras (3) (HESGOAL)
-https://www.hesgoal.zone/sport-tv1/ parseUrl=2
-
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/dtsShXYD/LIGA-Game-Placeholder-5.png" group-title="Live Events",LDU-Palmeiras (4) (DLIVE)
-https://dlive.sx/embed/stream-372.php parseUrl=1
-
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/59qRNJZw/LIGA-Game-Placeholder-4.png" group-title="Live Events",Atletico MG-Santos (W6)
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/X7s1d8js/LIGA-Game-Placeholder-6.png" group-title="Live Events",Corinthians-Estudiantes (W6)
 https://w6.sportsonliine.click/channels/hd/hd5.php parseUrl=2
 
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/59qRNJZw/LIGA-Game-Placeholder-4.png" group-title="Live Events",Atletico MG-Santos (2) (TV-90)
-https://tv-90.com/dsportsar.php parseUrl=2
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/X7s1d8js/LIGA-Game-Placeholder-6.png" group-title="Live Events",Corinthians-Estudiantes (2) (TVF90)
+https://tvf90.com/canal.php?stream=espn parseUrl=2
 
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/59qRNJZw/LIGA-Game-Placeholder-4.png" group-title="Live Events",Atletico MG-Santos (3) (HESGOAL)
-https://www.hesgoal.zone/sport-tv2/ parseUrl=2
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/X7s1d8js/LIGA-Game-Placeholder-6.png" group-title="Live Events",Corinthians-Estudiantes (3) (HESGOAL)
+https://www.hesgoal.zone/sport-tv1/ parseUrl=2
 
-#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/59qRNJZw/LIGA-Game-Placeholder-4.png" group-title="Live Events",Atletico MG-Santos (4) (DLIVE)
+#EXTINF:-1 iso-id="BR" type-id="#001" tvg-logo="https://i.postimg.cc/X7s1d8js/LIGA-Game-Placeholder-6.png" group-title="Live Events",Corinthians-Estudiantes (4) (DLIVE)
 https://dlive.sx/embed/stream-425.php parseUrl=1
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/tRtMCbLF/LIGA-Game-Placeholder-2.png" group-title="Live Events",Barcelona-Racing de Santander (FOXXY)
-https://foxxy.st/event/m-barcelona-vs-racing-santander-0916/main/1 parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/tRtMCbLF/LIGA-Game-Placeholder-2.png" group-title="Live Events",Barcelona-Racing de Santander (2) (W6)
-https://w6.sportsonliine.click/channels/hd/hd6.php parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/tRtMCbLF/LIGA-Game-Placeholder-2.png" group-title="Live Events",Barcelona-Racing de Santander (3) (TVF90)
-https://tvf90.com/1.php?stream=espnplus3 parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/tRtMCbLF/LIGA-Game-Placeholder-2.png" group-title="Live Events",Barcelona-Racing de Santander (4) (TVAPP1)
-https://tvapp1.com/watch/2506219 parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/tRtMCbLF/LIGA-Game-Placeholder-2.png" group-title="Live Events",Barcelona-Racing de Santander (5) (HESGOAL)
-https://www.hesgoal.zone/watch/hd-6.htm parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/tRtMCbLF/LIGA-Game-Placeholder-2.png" group-title="Live Events",Barcelona-Racing de Santander (6) (24HSPORT)
-https://24hsport.tv/match/barcelona-vs-racing-santander-30329 parseUrl=1
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/tRtMCbLF/LIGA-Game-Placeholder-2.png" group-title="Live Events",Barcelona-Racing de Santander (7) (FOXXY)
-https://foxxy.st/event/m-barcelona-vs-racing-santander-0916/main/1 parseUrl=1
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/tRtMCbLF/LIGA-Game-Placeholder-2.png" group-title="Live Events",Barcelona-Racing de Santander (8) (STREAMSGATES)
-https://streamsgates.pk/watch.html?sport=football&id=ppv-barcelona-vs-racing-santander parseUrl=1
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/tRtMCbLF/LIGA-Game-Placeholder-2.png" group-title="Live Events",Barcelona-Racing de Santander (9) (DLIVE)
-https://dlive.sx/embed/stream-538.php parseUrl=1
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/tRtMCbLF/LIGA-Game-Placeholder-2.png" group-title="Live Events",Barcelona-Racing de Santander (10) (DLIVE)
-https://dlive.sx/embed/stream-112.php parseUrl=1
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/2809hwkX/LIGA-Game-Placeholder.png" group-title="Live Events",Levante-Athletic Club (FOXXY)
-https://foxxy.st/event/m-levante-vs-athletic-club-0916/main/1 parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/2809hwkX/LIGA-Game-Placeholder.png" group-title="Live Events",Levante-Athletic Club (2) (W6)
-https://w6.sportsonliine.click/channels/hd/hd10.php parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/2809hwkX/LIGA-Game-Placeholder.png" group-title="Live Events",Levante-Athletic Club (3) (TV-90)
-https://tv-90.com/dsportsar.php parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/2809hwkX/LIGA-Game-Placeholder.png" group-title="Live Events",Levante-Athletic Club (4) (TVAPP1)
-https://tvapp1.com/watch/2506222 parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/2809hwkX/LIGA-Game-Placeholder.png" group-title="Live Events",Levante-Athletic Club (5) (HESGOAL)
-https://www.hesgoal.zone/hd-10/ parseUrl=2
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/2809hwkX/LIGA-Game-Placeholder.png" group-title="Live Events",Levante-Athletic Club (6) (FOXXY)
-https://foxxy.st/event/m-levante-vs-athletic-club-0916/main/1 parseUrl=1
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/2809hwkX/LIGA-Game-Placeholder.png" group-title="Live Events",Levante-Athletic Club (7) (DLIVE)
-https://dlive.sx/embed/stream-84.php parseUrl=1
-
-#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.postimg.cc/2809hwkX/LIGA-Game-Placeholder.png" group-title="Live Events",Levante-Athletic Club (8) (DLIVE)
-https://dlive.sx/embed/stream-157.php parseUrl=1
-
-#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/yY1rD5HJ/LIGA-Game-Placeholder-3.png" group-title="Live Events",Anderlecht-Lyon (FOXXY)
-https://foxxy.st/event/m-anderlecht-vs-lyon-0916/main/1 parseUrl=2
-
-#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/yY1rD5HJ/LIGA-Game-Placeholder-3.png" group-title="Live Events",Anderlecht-Lyon (2) (W6)
-https://w6.sportsonliine.click/channels/hd/hd4.php parseUrl=2
-
-#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/yY1rD5HJ/LIGA-Game-Placeholder-3.png" group-title="Live Events",Anderlecht-Lyon (3) (TVF90)
-https://tvf90.com/1.php?stream=espn3 parseUrl=2
-
-#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/yY1rD5HJ/LIGA-Game-Placeholder-3.png" group-title="Live Events",Anderlecht-Lyon (4) (TVAPP1)
-https://tvapp1.com/watch/2594892 parseUrl=2
-
-#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/yY1rD5HJ/LIGA-Game-Placeholder-3.png" group-title="Live Events",Anderlecht-Lyon (5) (HESGOAL)
-https://www.hesgoal.zone/hd-4/ parseUrl=2
-
-#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/yY1rD5HJ/LIGA-Game-Placeholder-3.png" group-title="Live Events",Anderlecht-Lyon (6) (24HSPORT)
-https://24hsport.tv/match/anderlecht-vs-lyon-34523 parseUrl=2
-
-#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/yY1rD5HJ/LIGA-Game-Placeholder-3.png" group-title="Live Events",Anderlecht-Lyon (7) (FOXXY)
-https://foxxy.st/event/m-anderlecht-vs-lyon-0916/main/1 parseUrl=1
-
-#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.postimg.cc/yY1rD5HJ/LIGA-Game-Placeholder-3.png" group-title="Live Events",Anderlecht-Lyon (8) (DLIVE)
-https://dlive.sx/embed/stream-34.php parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/28GMXtG2/Basket-TV.png" group-title="Sports",Basket TV (DLHD)
 https://dlhd.pk/watch.php?id=404 parseUrl=1
