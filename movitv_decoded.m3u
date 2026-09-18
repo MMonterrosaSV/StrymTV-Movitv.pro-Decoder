@@ -6,6 +6,9 @@ https://movitv.pro/mlb.txt parseUrl=8
 #EXTINF:-1 iso-id="US" type-id="#002" tvg-logo="https://i.postimg.cc/Hsq5ZrY7/NFL-Playlist.png" group-title="Live Events",NFL Playlist 🏈 (MOVITV)
 https://movitv.pro/nfl.txt parseUrl=8
 
+#EXTINF:-1 iso-id="US" type-id="#002" tvg-logo="https://i.postimg.cc/NF0180z5/NCAA-Playlist.png" group-title="Live Events",NCAA Playlist 🏈 (MOVITV)
+https://movitv.pro/ncaa.txt parseUrl=8
+
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/28GMXtG2/Basket-TV.png" group-title="Sports",Basket TV (DLHD)
 https://dlhd.pk/watch.php?id=404 parseUrl=1
 
