@@ -3,6 +3,84 @@
 #EXTINF:-1 iso-id="US" type-id="#006" tvg-logo="https://i.postimg.cc/Rh0c10DZ/MLB-Playlist.png" group-title="Live Events",MLB Playlist ⚾️ (MOVITV)
 https://movitv.pro/mlb.txt parseUrl=8
 
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/ds7b1S8N/EPL-Game-Placeholder.png" group-title="Live Events",BRENTFORD-CHELSEA (W6)
+https://w6.sportsonliine.click/channels/hd/hd1.php parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/ds7b1S8N/EPL-Game-Placeholder.png" group-title="Live Events",BRENTFORD-CHELSEA (2) (TVF90)
+https://tvf90.com/1.php?stream=espn2 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/ds7b1S8N/EPL-Game-Placeholder.png" group-title="Live Events",BRENTFORD-CHELSEA (3) (W6)
+https://w6.sportsonliine.click/channels/pt/eleven1.php parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/ds7b1S8N/EPL-Game-Placeholder.png" group-title="Live Events",BRENTFORD-CHELSEA (4) (TVF90)
+https://tvf90.com/3.php?stream=espn2 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/ds7b1S8N/EPL-Game-Placeholder.png" group-title="Live Events",BRENTFORD-CHELSEA (5) (W6)
+https://w6.sportsonliine.click/channels/bra/br2.php parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/ds7b1S8N/EPL-Game-Placeholder.png" group-title="Live Events",BRENTFORD-CHELSEA (6) (TVAPP1)
+https://tvapp1.com/watch/2494047 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/ds7b1S8N/EPL-Game-Placeholder.png" group-title="Live Events",BRENTFORD-CHELSEA (7) (STREAMSEAST)
+https://streamseast.eu/soccer/401879275/brentford-vs-chelsea parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/ds7b1S8N/EPL-Game-Placeholder.png" group-title="Live Events",BRENTFORD-CHELSEA (8) (FOXXY)
+https://foxxy.st/event/m-brentford-vs-chelsea-0918/main/1 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/ds7b1S8N/EPL-Game-Placeholder.png" group-title="Live Events",BRENTFORD-CHELSEA (9) (GGSPORT)
+https://ggsport.live/match/brentford-vs-chelsea-30491 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/ds7b1S8N/EPL-Game-Placeholder.png" group-title="Live Events",BRENTFORD-CHELSEA (10) (24HSPORT)
+https://24hsport.tv/match/brentford-vs-chelsea-30491 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/q3PkfLw0/LIGA-Game-Placeholder.png" group-title="Live Events",ESPANYOL-ELCHE (W6)
+https://w6.sportsonliine.click/channels/hd/hd6.php parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/q3PkfLw0/LIGA-Game-Placeholder.png" group-title="Live Events",ESPANYOL-ELCHE (2) (TV-90)
+https://tv-90.com/dsportsco.php parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/q3PkfLw0/LIGA-Game-Placeholder.png" group-title="Live Events",ESPANYOL-ELCHE (3) (W6)
+https://w6.sportsonliine.click/channels/pt/eleven3.php parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/q3PkfLw0/LIGA-Game-Placeholder.png" group-title="Live Events",ESPANYOL-ELCHE (4) (TVF90)
+https://tvf90.com/1.php?stream=dsports_eventos parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/q3PkfLw0/LIGA-Game-Placeholder.png" group-title="Live Events",ESPANYOL-ELCHE (5) (TVAPP1)
+https://tvapp1.com/watch/2506235 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/q3PkfLw0/LIGA-Game-Placeholder.png" group-title="Live Events",ESPANYOL-ELCHE (6) (FOXXY)
+https://foxxy.st/event/m-espanyol-vs-elche-0918/main/1 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/q3PkfLw0/LIGA-Game-Placeholder.png" group-title="Live Events",ESPANYOL-ELCHE (7) (GGSPORT)
+https://ggsport.live/match/espanyol-vs-elche-30761 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/q3PkfLw0/LIGA-Game-Placeholder.png" group-title="Live Events",ESPANYOL-ELCHE (8) (24HSPORT)
+https://24hsport.tv/match/espanyol-vs-elche-30761 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/q3PkfLw0/LIGA-Game-Placeholder.png" group-title="Live Events",ESPANYOL-ELCHE (9) (DLIVE)
+https://dlive.sx/watch.php?id=451 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/q3PkfLw0/LIGA-Game-Placeholder.png" group-title="Live Events",ESPANYOL-ELCHE (10) (DLIVE)
+https://dlive.sx/watch.php?id=375 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/k2L0xGBb/EPL-Game-Placeholder.png" group-title="Live Events",BRISTOL CITY-WATFORD (W6)
+https://w6.sportsonliine.click/channels/hd/hd2.php parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/k2L0xGBb/EPL-Game-Placeholder.png" group-title="Live Events",BRISTOL CITY-WATFORD (2) (TVF90)
+https://tvf90.com/3.php?stream=foxsports2 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/k2L0xGBb/EPL-Game-Placeholder.png" group-title="Live Events",BRISTOL CITY-WATFORD (3) (W6)
+https://w6.sportsonliine.click/channels/pt/sporttv3.php parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/k2L0xGBb/EPL-Game-Placeholder.png" group-title="Live Events",BRISTOL CITY-WATFORD (4) (24HSPORT)
+https://24hsport.tv/match/bristol-city-vs-watford-30497 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/k2L0xGBb/EPL-Game-Placeholder.png" group-title="Live Events",BRISTOL CITY-WATFORD (5) (FOXXY)
+https://foxxy.st/event/m-bristol-city-vs-watford-0918 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/k2L0xGBb/EPL-Game-Placeholder.png" group-title="Live Events",BRISTOL CITY-WATFORD (6) (GGSPORT)
+https://ggsport.live/match/bristol-city-vs-watford-30497 parseUrl=1
+
 #EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.postimg.cc/fT8y3sFV/LIGA-Game-Placeholder-3.png" group-title="Live Events",Monza-Sassuolo (FOXXY)
 https://foxxy.st/event/m-monza-vs-sassuolo-0918 parseUrl=2
 
