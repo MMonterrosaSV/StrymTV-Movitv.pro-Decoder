@@ -3,6 +3,228 @@
 #EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/6qQdVQmq/EFL-Playlist.png" group-title="Live Events",EFL Playlist ⚽️ (MOVITV)
 https://movitv.pro/efl.txt parseUrl=8
 
+#EXTINF:-1 iso-id="US" type-id="#002" tvg-logo="https://i.postimg.cc/nrTGdbck/Bitmap.png" group-title="Live Events",NCAA Playlist 🏈 (MOVITV)
+https://movitv.pro/ncaa.txt parseUrl=8
+
+#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.ibb.co/nMvcbT50/LIGA-Game-Placeholder.png" group-title="Live Events",PARIS FC-STRASBOURG (W6)
+https://w6.sportsonliine.click/channels/pt/sporttv5.php parseUrl=1
+
+#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.ibb.co/nMvcbT50/LIGA-Game-Placeholder.png" group-title="Live Events",PARIS FC-STRASBOURG (2) (TVAPP1)
+https://tvapp1.com/watch/2489504 parseUrl=1
+
+#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.ibb.co/nMvcbT50/LIGA-Game-Placeholder.png" group-title="Live Events",PARIS FC-STRASBOURG (3) (24HSPORT)
+https://24hsport.tv/match/paris-fc-vs-strasbourg-30533 parseUrl=1
+
+#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.ibb.co/nMvcbT50/LIGA-Game-Placeholder.png" group-title="Live Events",PARIS FC-STRASBOURG (4) (FOXXY)
+https://foxxy.st/event/m-paris-fc-vs-strasbourg-0919 parseUrl=1
+
+#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.ibb.co/nMvcbT50/LIGA-Game-Placeholder.png" group-title="Live Events",PARIS FC-STRASBOURG (5) (GGSPORT)
+https://ggsport.live/match/paris-fc-vs-strasbourg-30533 parseUrl=1
+
+#EXTINF:-1 iso-id="FR" type-id="#001" tvg-logo="https://i.ibb.co/nMvcbT50/LIGA-Game-Placeholder.png" group-title="Live Events",PARIS FC-STRASBOURG (6) (DLIVE)
+https://dlive.sx/watch.php?id=425 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/zhdSvpYL/LIGA-Game-Placeholder.png" group-title="Live Events",Arsenal-Brighton & Hove Albion (W6)
+https://w6.sportsonliine.click/channels/hd/hd1.php parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/zhdSvpYL/LIGA-Game-Placeholder.png" group-title="Live Events",Arsenal-Brighton & Hove Albion (2) (TVF90)
+https://tvf90.com/canal.php?stream=espn parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/zhdSvpYL/LIGA-Game-Placeholder.png" group-title="Live Events",Arsenal-Brighton & Hove Albion (3) (W6)
+https://w6.sportsonliine.click/channels/pt/eleven1.php parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/zhdSvpYL/LIGA-Game-Placeholder.png" group-title="Live Events",Arsenal-Brighton & Hove Albion (4) (TVAPP1)
+https://tvapp1.com/watch/2494046 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/zhdSvpYL/LIGA-Game-Placeholder.png" group-title="Live Events",Arsenal-Brighton & Hove Albion (5) (TVF90)
+https://tvf90.com/2.php?stream=espn parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/zhdSvpYL/LIGA-Game-Placeholder.png" group-title="Live Events",Arsenal-Brighton & Hove Albion (6) (ISTREAMEAST)
+https://istreameast.cx/links/brighton-and-hove-albion-vs-arsenal-2494046 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/zhdSvpYL/LIGA-Game-Placeholder.png" group-title="Live Events",Arsenal-Brighton & Hove Albion (7) (TVF90)
+https://tvf90.com/3.php?stream=espn parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/zhdSvpYL/LIGA-Game-Placeholder.png" group-title="Live Events",Arsenal-Brighton & Hove Albion (8) (OVOSTREAM)
+https://ovostream.net/?game=brighton-hove-albion-vs-arsenal parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/zhdSvpYL/LIGA-Game-Placeholder.png" group-title="Live Events",Arsenal-Brighton & Hove Albion (9) (HESGOAL)
+https://www.hesgoal.zone/watch/hd-1.htm parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/zhdSvpYL/LIGA-Game-Placeholder.png" group-title="Live Events",Arsenal-Brighton & Hove Albion (10) (24HSPORT)
+https://24hsport.tv/match/brighton-vs-arsenal-30515 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/zhdSvpYL/LIGA-Game-Placeholder.png" group-title="Live Events",Arsenal-Brighton & Hove Albion (11) (HESGOAL)
+https://www.hesgoal.zone/watch/stream-1.htm parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/zhdSvpYL/LIGA-Game-Placeholder.png" group-title="Live Events",Arsenal-Brighton & Hove Albion (12) (DLIVE)
+https://dlive.sx/watch.php?id=25 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/V0qNdDTw/LIGA-Game-Placeholder.png" group-title="Live Events",Everton-Ipswich Town (W6)
+https://w6.sportsonliine.click/channels/hd/hd2.php parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/V0qNdDTw/LIGA-Game-Placeholder.png" group-title="Live Events",Everton-Ipswich Town (2) (TVAPP1)
+https://tvapp1.com/watch/2494043 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/V0qNdDTw/LIGA-Game-Placeholder.png" group-title="Live Events",Everton-Ipswich Town (3) (ISTREAMEAST)
+https://istreameast.cx/links/everton-vs-ipswich-town-2494043 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/V0qNdDTw/LIGA-Game-Placeholder.png" group-title="Live Events",Everton-Ipswich Town (4) (HESGOAL)
+https://www.hesgoal.zone/hd-2/ parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/V0qNdDTw/LIGA-Game-Placeholder.png" group-title="Live Events",Everton-Ipswich Town (5) (24HSPORT)
+https://24hsport.tv/match/everton-vs-ipswich-30511 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/V0qNdDTw/LIGA-Game-Placeholder.png" group-title="Live Events",Everton-Ipswich Town (6) (HESGOAL)
+https://www.hesgoal.zone/stream-2/ parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/V0qNdDTw/LIGA-Game-Placeholder.png" group-title="Live Events",Everton-Ipswich Town (7) (DLIVE)
+https://dlive.sx/watch.php?id=26 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/Qz6PSgx/LIGA-Game-Placeholder.png" group-title="Live Events",ATHLETIC CLUB-ALAVES (W6)
+https://w6.sportsonliine.click/channels/hd/hd6.php parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/Qz6PSgx/LIGA-Game-Placeholder.png" group-title="Live Events",ATHLETIC CLUB-ALAVES (2) (TVF90)
+https://tvf90.com/1.php?stream=dsports_eventos parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/Qz6PSgx/LIGA-Game-Placeholder.png" group-title="Live Events",ATHLETIC CLUB-ALAVES (3) (W6)
+https://w6.sportsonliine.click/channels/pt/eleven2.php parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/Qz6PSgx/LIGA-Game-Placeholder.png" group-title="Live Events",ATHLETIC CLUB-ALAVES (4) (TVF90)
+https://tvf90.com/2.php?stream=dsports parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/Qz6PSgx/LIGA-Game-Placeholder.png" group-title="Live Events",ATHLETIC CLUB-ALAVES (5) (TVAPP1)
+https://tvapp1.com/watch/2506230 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/Qz6PSgx/LIGA-Game-Placeholder.png" group-title="Live Events",ATHLETIC CLUB-ALAVES (6) (24HSPORT)
+https://24hsport.tv/match/athletic-club-vs-alaves-30751 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/Qz6PSgx/LIGA-Game-Placeholder.png" group-title="Live Events",ATHLETIC CLUB-ALAVES (7) (DLIVE)
+https://dlive.sx/watch.php?id=538 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/Qz6PSgx/LIGA-Game-Placeholder.png" group-title="Live Events",ATHLETIC CLUB-ALAVES (8) (GGSPORT)
+https://ggsport.live/match/athletic-club-vs-alaves-30751 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/Qz6PSgx/LIGA-Game-Placeholder.png" group-title="Live Events",ATHLETIC CLUB-ALAVES (9) (DLIVE)
+https://dlive.sx/watch.php?id=415 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/Qz6PSgx/LIGA-Game-Placeholder.png" group-title="Live Events",ATHLETIC CLUB-ALAVES (10) (FOXXY)
+https://foxxy.st/event/m-athletic-club-vs-alaves-0919/main/1 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/MxxGSV07/EPL-Game-Placeholder.png" group-title="Live Events",NEWCASTLE-HULL CITY (W6)
+https://w6.sportsonliine.click/channels/hd/hd10.php parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/MxxGSV07/EPL-Game-Placeholder.png" group-title="Live Events",NEWCASTLE-HULL CITY (2) (TVF90)
+https://tvf90.com/1.php?stream=espn2 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/MxxGSV07/EPL-Game-Placeholder.png" group-title="Live Events",NEWCASTLE-HULL CITY (3) (TVAPP1)
+https://tvapp1.com/watch/2494040 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/MxxGSV07/EPL-Game-Placeholder.png" group-title="Live Events",NEWCASTLE-HULL CITY (4) (TVF90)
+https://tvf90.com/3.php?stream=espn2 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/MxxGSV07/EPL-Game-Placeholder.png" group-title="Live Events",NEWCASTLE-HULL CITY (5) (OVOSTREAM)
+https://ovostream.net/?game=newcastle-united-vs-hull-city parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/MxxGSV07/EPL-Game-Placeholder.png" group-title="Live Events",NEWCASTLE-HULL CITY (6) (24HSPORT)
+https://24hsport.tv/match/newcastle-vs-hull-city-30509 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/MxxGSV07/EPL-Game-Placeholder.png" group-title="Live Events",NEWCASTLE-HULL CITY (7) (DLIVE)
+https://dlive.sx/watch.php?id=27 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/MxxGSV07/EPL-Game-Placeholder.png" group-title="Live Events",NEWCASTLE-HULL CITY (8) (GGSPORT)
+https://ggsport.live/match/newcastle-vs-hull-city-30509 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/MxxGSV07/EPL-Game-Placeholder.png" group-title="Live Events",NEWCASTLE-HULL CITY (9) (DLIVE)
+https://dlive.sx/watch.php?id=594 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/MxxGSV07/EPL-Game-Placeholder.png" group-title="Live Events",NEWCASTLE-HULL CITY (10) (DLIVE)
+https://dlive.sx/watch.php?id=1 parseUrl=1
+
+#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.ibb.co/hxrLj4P5/LIGA-Game-Placeholder.png" group-title="Live Events",EINTRACHT FRANKFURT-SC FREIBURG (W6)
+https://w6.sportsonliine.click/channels/hd/hd4.php parseUrl=1
+
+#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.ibb.co/hxrLj4P5/LIGA-Game-Placeholder.png" group-title="Live Events",EINTRACHT FRANKFURT-SC FREIBURG (2) (TVF90)
+https://tvf90.com/1.php?stream=universo parseUrl=1
+
+#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.ibb.co/hxrLj4P5/LIGA-Game-Placeholder.png" group-title="Live Events",EINTRACHT FRANKFURT-SC FREIBURG (3) (TVAPP1)
+https://tvapp1.com/watch/2508364 parseUrl=1
+
+#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.ibb.co/hxrLj4P5/LIGA-Game-Placeholder.png" group-title="Live Events",EINTRACHT FRANKFURT-SC FREIBURG (4) (TVF90)
+https://tvf90.com/hd.php?stream=universo parseUrl=1
+
+#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.ibb.co/hxrLj4P5/LIGA-Game-Placeholder.png" group-title="Live Events",EINTRACHT FRANKFURT-SC FREIBURG (5) (24HSPORT)
+https://24hsport.tv/match/eintracht-frankfurt-vs-sc-freiburg-30541 parseUrl=1
+
+#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.ibb.co/hxrLj4P5/LIGA-Game-Placeholder.png" group-title="Live Events",EINTRACHT FRANKFURT-SC FREIBURG (6) (FOXXY)
+https://foxxy.st/event/m-eintracht-frankfurt-vs-sc-freiburg-0919/main/1 parseUrl=1
+
+#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.ibb.co/hxrLj4P5/LIGA-Game-Placeholder.png" group-title="Live Events",EINTRACHT FRANKFURT-SC FREIBURG (7) (GGSPORT)
+https://ggsport.live/match/eintracht-frankfurt-vs-sc-freiburg-30541 parseUrl=1
+
+#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.ibb.co/hxrLj4P5/LIGA-Game-Placeholder.png" group-title="Live Events",EINTRACHT FRANKFURT-SC FREIBURG (8) (DLIVE)
+https://dlive.sx/watch.php?id=947 parseUrl=1
+
+#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.ibb.co/ZpNQSfsr/LIGA-Game-Placeholder.png" group-title="Live Events",WERDER BREMEN-FC AUGSBURG (W6)
+https://w6.sportsonliine.click/channels/hd/hd9.php parseUrl=1
+
+#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.ibb.co/ZpNQSfsr/LIGA-Game-Placeholder.png" group-title="Live Events",WERDER BREMEN-FC AUGSBURG (2) (TVF90)
+https://tvf90.com/1.php?stream=disney15 parseUrl=1
+
+#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.ibb.co/ZpNQSfsr/LIGA-Game-Placeholder.png" group-title="Live Events",WERDER BREMEN-FC AUGSBURG (3) (TVAPP1)
+https://tvapp1.com/watch/2508361 parseUrl=1
+
+#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.ibb.co/ZpNQSfsr/LIGA-Game-Placeholder.png" group-title="Live Events",WERDER BREMEN-FC AUGSBURG (4) (24HSPORT)
+https://24hsport.tv/match/werder-bremen-vs-fc-augsburg-30537 parseUrl=1
+
+#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.ibb.co/ZpNQSfsr/LIGA-Game-Placeholder.png" group-title="Live Events",WERDER BREMEN-FC AUGSBURG (5) (FOXXY)
+https://foxxy.st/event/m-werder-bremen-vs-fc-augsburg-0919/main/1 parseUrl=1
+
+#EXTINF:-1 iso-id="DE" type-id="#001" tvg-logo="https://i.ibb.co/ZpNQSfsr/LIGA-Game-Placeholder.png" group-title="Live Events",WERDER BREMEN-FC AUGSBURG (6) (GGSPORT)
+https://ggsport.live/match/werder-bremen-vs-fc-augsburg-30537 parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.ibb.co/bjb0SN4F/LIGA-Game-Placeholder.png" group-title="Live Events",Bologna-Torino (W6)
+https://w6.sportsonliine.click/channels/hd/hd7.php parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.ibb.co/bjb0SN4F/LIGA-Game-Placeholder.png" group-title="Live Events",Bologna-Torino (2) (TVF90)
+https://tvf90.com/1.php?stream=espnmx parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.ibb.co/bjb0SN4F/LIGA-Game-Placeholder.png" group-title="Live Events",Bologna-Torino (3) (TVAPP1)
+https://tvapp1.com/watch/2482182 parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.ibb.co/bjb0SN4F/LIGA-Game-Placeholder.png" group-title="Live Events",Bologna-Torino (4) (TVF90)
+https://tvf90.com/2.php?stream=espnmx parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.ibb.co/bjb0SN4F/LIGA-Game-Placeholder.png" group-title="Live Events",Bologna-Torino (5) (ISTREAMEAST)
+https://istreameast.cx/links/bologna-vs-torino-2482182 parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.ibb.co/bjb0SN4F/LIGA-Game-Placeholder.png" group-title="Live Events",Bologna-Torino (6) (HESGOAL)
+https://www.hesgoal.zone/hd-7/ parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.ibb.co/bjb0SN4F/LIGA-Game-Placeholder.png" group-title="Live Events",Bologna-Torino (7) (24HSPORT)
+https://24hsport.tv/match/bologna-vs-torino-30549 parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.ibb.co/bjb0SN4F/LIGA-Game-Placeholder.png" group-title="Live Events",Bologna-Torino (8) (DLIVE)
+https://dlive.sx/watch.php?id=290 parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.ibb.co/DHY1C5f8/LIGA-Game-Placeholder.png" group-title="Live Events",Udinese-Cagliari (W6)
+https://w6.sportsonliine.click/channels/hd/hd8.php parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.ibb.co/DHY1C5f8/LIGA-Game-Placeholder.png" group-title="Live Events",Udinese-Cagliari (2) (TVAPP1)
+https://tvapp1.com/watch/2482179 parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.ibb.co/DHY1C5f8/LIGA-Game-Placeholder.png" group-title="Live Events",Udinese-Cagliari (3) (ISTREAMEAST)
+https://istreameast.cx/links/udinese-vs-cagliari-2482179 parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.ibb.co/DHY1C5f8/LIGA-Game-Placeholder.png" group-title="Live Events",Udinese-Cagliari (4) (HESGOAL)
+https://www.hesgoal.zone/hd-8/ parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.ibb.co/DHY1C5f8/LIGA-Game-Placeholder.png" group-title="Live Events",Udinese-Cagliari (5) (24HSPORT)
+https://24hsport.tv/match/udinese-vs-cagliari-30547 parseUrl=1
+
+#EXTINF:-1 iso-id="IT" type-id="#001" tvg-logo="https://i.ibb.co/DHY1C5f8/LIGA-Game-Placeholder.png" group-title="Live Events",Udinese-Cagliari (6) (FOXXY)
+https://foxxy.st/event/m-udinese-vs-cagliari-0919 parseUrl=1
+
 #EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/20sqcTFj/LIGA-Game-Placeholder.png" group-title="Live Events",OSASUNA-RAYO VALLECANO (W6)
 https://w6.sportsonliine.click/channels/hd/hd6.php parseUrl=1
 
@@ -54,8 +276,8 @@ https://tvf90.com/1.php?stream=universo parseUrl=1
 #EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/rKKYfpWy/EPL-Game-Placeholder.png" group-title="Live Events",TOTTENHAM-ASTON VILLA (7) (EMBED)
 https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-aston-villa/1 parseUrl=1
 
-#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/rKKYfpWy/EPL-Game-Placeholder.png" group-title="Live Events",TOTTENHAM-ASTON VILLA (8) (OVOSTREAM)
-https://ovostream.net/?game=tottenham-hotspur-vs-aston-villa parseUrl=1
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/rKKYfpWy/EPL-Game-Placeholder.png" group-title="Live Events",TOTTENHAM-ASTON VILLA (8) (FOXXY)
+https://foxxy.st/event/m-tottenham-hotspur-vs-aston-villa-0919/main/1 parseUrl=1
 
 #EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/rKKYfpWy/EPL-Game-Placeholder.png" group-title="Live Events",TOTTENHAM-ASTON VILLA (9) (24HSPORT)
 https://24hsport.tv/match/tottenham-vs-aston-villa-30507 parseUrl=1
