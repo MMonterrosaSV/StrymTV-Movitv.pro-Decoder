@@ -1,10 +1,67 @@
 #EXTM3U
 
-#EXTINF:-1 iso-id="US" type-id="#006" tvg-logo="https://i.postimg.cc/Rh0c10DZ/MLB-Playlist.png" group-title="Live Events",MLB Playlist ⚾️ (MOVITV)
-https://movitv.pro/mlb.txt parseUrl=8
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.postimg.cc/6qQdVQmq/EFL-Playlist.png" group-title="Live Events",EFL Playlist ⚽️ (MOVITV)
+https://movitv.pro/efl.txt parseUrl=8
 
-#EXTINF:-1 iso-id="US" type-id="#002" tvg-logo="https://i.postimg.cc/NF0180z5/NCAA-Playlist.png" group-title="Live Events",NCAA Playlist 🏈 (MOVITV)
-https://movitv.pro/ncaa.txt parseUrl=8
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/20sqcTFj/LIGA-Game-Placeholder.png" group-title="Live Events",OSASUNA-RAYO VALLECANO (W6)
+https://w6.sportsonliine.click/channels/hd/hd6.php parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/20sqcTFj/LIGA-Game-Placeholder.png" group-title="Live Events",OSASUNA-RAYO VALLECANO (2) (TVF90)
+https://tvf90.com/1.php?stream=espn2 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/20sqcTFj/LIGA-Game-Placeholder.png" group-title="Live Events",OSASUNA-RAYO VALLECANO (3) (W6)
+https://w6.sportsonliine.click/channels/pt/eleven2.php parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/20sqcTFj/LIGA-Game-Placeholder.png" group-title="Live Events",OSASUNA-RAYO VALLECANO (4) (TVF90)
+https://tvf90.com/3.php?stream=espn2 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/20sqcTFj/LIGA-Game-Placeholder.png" group-title="Live Events",OSASUNA-RAYO VALLECANO (5) (TVAPP1)
+https://tvapp1.com/watch/2506238 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/20sqcTFj/LIGA-Game-Placeholder.png" group-title="Live Events",OSASUNA-RAYO VALLECANO (6) (TVF90)
+https://tvf90.com/1.php?stream=disney8 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/20sqcTFj/LIGA-Game-Placeholder.png" group-title="Live Events",OSASUNA-RAYO VALLECANO (7) (24HSPORT)
+https://24hsport.tv/match/osasuna-vs-rayo-vallecano-30767 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/20sqcTFj/LIGA-Game-Placeholder.png" group-title="Live Events",OSASUNA-RAYO VALLECANO (8) (FOXXY)
+https://foxxy.st/event/m-osasuna-vs-rayo-vallecano-0919 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/20sqcTFj/LIGA-Game-Placeholder.png" group-title="Live Events",OSASUNA-RAYO VALLECANO (9) (GGSPORT)
+https://ggsport.live/match/osasuna-vs-rayo-vallecano-30767 parseUrl=1
+
+#EXTINF:-1 iso-id="ES" type-id="#001" tvg-logo="https://i.ibb.co/20sqcTFj/LIGA-Game-Placeholder.png" group-title="Live Events",OSASUNA-RAYO VALLECANO (10) (DLIVE)
+https://dlive.sx/watch.php?id=451 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/rKKYfpWy/EPL-Game-Placeholder.png" group-title="Live Events",TOTTENHAM-ASTON VILLA (W6)
+https://w6.sportsonliine.click/channels/hd/hd1.php parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/rKKYfpWy/EPL-Game-Placeholder.png" group-title="Live Events",TOTTENHAM-ASTON VILLA (2) (TVF90)
+https://tvf90.com/canal.php?stream=espn parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/rKKYfpWy/EPL-Game-Placeholder.png" group-title="Live Events",TOTTENHAM-ASTON VILLA (3) (W6)
+https://w6.sportsonliine.click/channels/pt/eleven1.php parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/rKKYfpWy/EPL-Game-Placeholder.png" group-title="Live Events",TOTTENHAM-ASTON VILLA (4) (TVF90)
+https://tvf90.com/3.php?stream=espn parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/rKKYfpWy/EPL-Game-Placeholder.png" group-title="Live Events",TOTTENHAM-ASTON VILLA (5) (TVAPP1)
+https://tvapp1.com/watch/2494044 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/rKKYfpWy/EPL-Game-Placeholder.png" group-title="Live Events",TOTTENHAM-ASTON VILLA (6) (TVF90)
+https://tvf90.com/1.php?stream=universo parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/rKKYfpWy/EPL-Game-Placeholder.png" group-title="Live Events",TOTTENHAM-ASTON VILLA (7) (EMBED)
+https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-aston-villa/1 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/rKKYfpWy/EPL-Game-Placeholder.png" group-title="Live Events",TOTTENHAM-ASTON VILLA (8) (OVOSTREAM)
+https://ovostream.net/?game=tottenham-hotspur-vs-aston-villa parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/rKKYfpWy/EPL-Game-Placeholder.png" group-title="Live Events",TOTTENHAM-ASTON VILLA (9) (24HSPORT)
+https://24hsport.tv/match/tottenham-vs-aston-villa-30507 parseUrl=1
+
+#EXTINF:-1 iso-id="GB-ENG" type-id="#001" tvg-logo="https://i.ibb.co/rKKYfpWy/EPL-Game-Placeholder.png" group-title="Live Events",TOTTENHAM-ASTON VILLA (10) (GGSPORT)
+https://ggsport.live/match/tottenham-vs-aston-villa-30507 parseUrl=1
 
 #EXTINF:-1 iso-id="US" tvg-logo="https://i.postimg.cc/28GMXtG2/Basket-TV.png" group-title="Sports",Basket TV (DLHD)
 https://dlhd.pk/watch.php?id=404 parseUrl=1
